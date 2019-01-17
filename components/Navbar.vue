@@ -2,11 +2,11 @@
   <nav class="navbar is-info">
     <div class="container">
       <div class="navbar-brand">
-        <a
+        <nuxt-link
           class="navbar-item"
-          href="#"
+          to="/"
           style="font-weight:bolder; text-transform:uppercase;letter-spacing:5px;"
-        >DataGinie</a>
+        >DataGinie</nuxt-link>
         <span class="navbar-burger burger" data-target="navMenu">
           <span></span>
           <span></span>
@@ -15,7 +15,7 @@
       </div>
       <div id="navMenu" class="navbar-menu">
         <div class="navbar-end">
-          <a href="#" class="navbar-item is-active">Home</a>
+          <nuxt-link to="/" class="navbar-item">Home</nuxt-link>
           <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link" href>Insights</a>
             <div class="navbar-dropdown is-boxed">
@@ -28,9 +28,8 @@
             </div>
           </div>
 
-          <a href="#" class="navbar-item">About</a>
-          <a href="#" class="navbar-item">Team</a>
-          <a href="#" class="navbar-item">Contact</a>
+          <nuxt-link to="/about" class="navbar-item">About</nuxt-link>
+          <nuxt-link to="/contact" class="navbar-item">Contact</nuxt-link>
         </div>
       </div>
     </div>
