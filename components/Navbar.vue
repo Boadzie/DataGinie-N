@@ -17,14 +17,15 @@
         <div class="navbar-end">
           <nuxt-link to="/" class="navbar-item">Home</nuxt-link>
           <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" href>Insights</a>
+            <nuxt-link class="navbar-link" to="/insights">Insights</nuxt-link>
             <div class="navbar-dropdown is-boxed">
-              <a class="navbar-item" href>Energy</a>
+              <nuxt-link class="navbar-item" to="/insights/energy">Energy</nuxt-link>
               <a class="navbar-item" href>Transport</a>
               <a class="navbar-item" href>Agriculture</a>
               <a class="navbar-item" href>Finance</a>
               <hr class="navbar-divider">
               <a class="navbar-item" href>Education</a>
+              <a class="navbar-item" href>Health</a>
             </div>
           </div>
 
