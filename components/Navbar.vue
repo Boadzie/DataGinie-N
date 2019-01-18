@@ -37,10 +37,7 @@
 </template>
 
 <script >
-data: {
-}
-methods: {
-}
+export default {};
 </script>
 
 <style scoped>
