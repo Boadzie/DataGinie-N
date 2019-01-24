@@ -5,7 +5,7 @@
         <div class="level-item has-text-centered">
           <div>
             <a href>
-              <i class="fab fa-github fa-3x"></i>
+              <i class="fas fa-globe-africa fa-3x"></i>
             </a>
           </div>
         </div>

@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg418"
+   height="160.87mm"
+   width="327.57001mm"
+   version="1.0">
+  <metadata
+     id="metadata422">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24">
+    <clipPath
+       id="clipEmfPath1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path2"
+         d="M 140,41 L 1046,41 L 1046,63 L 140,63 z" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath2"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5"
+         d="M 140,466 L 1046,466 L 1046,544 L 140,544 z" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path8"
+         d="M 0,61 L 142,61 L 142,468 L 0,468 z" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath4"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11"
+         d="M 141,62 L 593,62 L 593,467 L 141,467 z" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath5"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14"
+         d="M 141,62 L 593,62 L 593,468 L 141,468 z" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath6"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path17"
+         d="M 593,62 L 1045,62 L 1045,467 L 593,467 z" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath7"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path20"
+         d="M 593,62 L 1046,62 L 1046,468 L 593,468 z" />
+    </clipPath>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path26"
+     d="  M 1,0   L 1,608   L 1241,608   L 1241,0   L 1,0   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path28"
+     d="  M 1,42   L 1,543   L 1045,543   L 1045,42   L 1,42   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text34"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,11.000000,57.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan32"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan30"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Operational ..</tspan></tspan></text>
+  <path
+     id="path36"
+     d="  M 141,138   L 141,62  "
+     clip-path="url(#clipEmfPath1)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path38"
+     d="  M 593,138   L 593,62  "
+     clip-path="url(#clipEmfPath1)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path40"
+     d="  M 1045,138   L 1045,62  "
+     clip-path="url(#clipEmfPath1)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path42"
+     d="  M 141,467   L 141,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path44"
+     d="  M 200,467   L 200,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path46"
+     d="  M 259,467   L 259,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path48"
+     d="  M 318,467   L 318,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path50"
+     d="  M 377,467   L 377,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path52"
+     d="  M 436,467   L 436,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path54"
+     d="  M 495,467   L 495,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path56"
+     d="  M 554,467   L 554,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text76"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,143.000000,492.000000)"
+     style="font-size:19.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan74"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan58"
+         style="fill:#000000;font-size:19.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">0K</tspan><tspan
+         id="tspan60"
+         style="fill:#000000;font-size:19.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="-1.172852">  50K</tspan><tspan
+         id="tspan62"
+         style="fill:#000000;font-size:19.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="-1.393066">  100K</tspan><tspan
+         id="tspan64"
+         style="fill:#000000;font-size:19.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="4.616211">150K</tspan><tspan
+         id="tspan66"
+         style="fill:#000000;font-size:19.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="4.616211">200K</tspan><tspan
+         id="tspan68"
+         style="fill:#000000;font-size:19.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="4.616211">250K</tspan><tspan
+         id="tspan70"
+         style="fill:#000000;font-size:19.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="4.616211">300K</tspan><tspan
+         id="tspan72"
+         style="fill:#000000;font-size:19.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="4.616211">350K</tspan></tspan></text>
+  <text
+     id="text82"
+     y="40.000000"
+     x="126.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,143.000000,492.000000)"
+     style="font-size:19.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan80"
+       y="40.000000"
+       x="126.000000"><tspan
+         id="tspan78"
+         style="fill:#000000;font-size:19.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Number Of Customers</tspan></tspan></text>
+  <path
+     id="path84"
+     d="  M 593,467   L 593,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path86"
+     d="  M 674,467   L 674,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path88"
+     d="  M 756,467   L 756,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path90"
+     d="  M 837,467   L 837,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path92"
+     d="  M 918,467   L 918,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path94"
+     d="  M 999,467   L 999,472  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#f5f5f5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text100"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,595.000000,492.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan98"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan96"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">0</tspan></tspan></text>
+  <text
+     id="text106"
+     y="0.000000"
+     x="67.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,595.000000,492.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan104"
+       y="0.000000"
+       x="67.000000"><tspan
+         id="tspan102"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">50</tspan></tspan></text>
+  <text
+     id="text112"
+     y="0.000000"
+     x="144.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,595.000000,492.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan110"
+       y="0.000000"
+       x="144.000000"><tspan
+         id="tspan108"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">100</tspan></tspan></text>
+  <text
+     id="text118"
+     y="0.000000"
+     x="225.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,595.000000,492.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan116"
+       y="0.000000"
+       x="225.000000"><tspan
+         id="tspan114"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">150</tspan></tspan></text>
+  <text
+     id="text124"
+     y="0.000000"
+     x="306.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,595.000000,492.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan122"
+       y="0.000000"
+       x="306.000000"><tspan
+         id="tspan120"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">200</tspan></tspan></text>
+  <text
+     id="text130"
+     y="0.000000"
+     x="387.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,595.000000,492.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan128"
+       y="0.000000"
+       x="387.000000"><tspan
+         id="tspan126"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">250</tspan></tspan></text>
+  <text
+     id="text136"
+     y="39.000000"
+     x="173.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,595.000000,492.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan134"
+       y="39.000000"
+       x="173.000000"><tspan
+         id="tspan132"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Hv Voltage</tspan></tspan></text>
+  <path
+     id="path138"
+     d="  M 141,543   L 141,467  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path140"
+     d="  M 593,543   L 593,467  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path142"
+     d="  M 1045,543   L 1045,467  "
+     clip-path="url(#clipEmfPath2)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text152"
+     y="0.000000"
+     x="87.656250"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,54.000000,88.000000)"
+     style="font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:256.250000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:end;text-anchor:end;"
+     xml:space="preserve"><tspan
+       id="tspan146"
+       y="0.000000"
+       x="87.656250"><tspan
+         id="tspan144"
+         style="fill:#000000;font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">WESTERN</tspan></tspan><tspan
+       id="tspan150"
+       y="41.000000"
+       x="86.390625"><tspan
+         id="tspan148"
+         style="fill:#000000;font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">EASTERN</tspan></tspan></text>
+  <text
+     id="text162"
+     y="81.000000"
+     x="86.875000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,54.000000,88.000000)"
+     style="font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:256.250000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:end;text-anchor:end;"
+     xml:space="preserve"><tspan
+       id="tspan156"
+       y="81.000000"
+       x="86.875000"><tspan
+         id="tspan154"
+         style="fill:#000000;font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">CENTRAL</tspan></tspan><tspan
+       id="tspan160"
+       y="122.000000"
+       x="83.304688"><tspan
+         id="tspan158"
+         style="fill:#000000;font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">VOLTA</tspan></tspan></text>
+  <text
+     id="text172"
+     y="162.000000"
+     x="94.257812"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,54.000000,88.000000)"
+     style="font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:256.250000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:end;text-anchor:end;"
+     xml:space="preserve"><tspan
+       id="tspan166"
+       y="162.000000"
+       x="94.257812"><tspan
+         id="tspan164"
+         style="fill:#000000;font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">ASHANTI EAST</tspan></tspan><tspan
+       id="tspan170"
+       y="203.000000"
+       x="95.523437"><tspan
+         id="tspan168"
+         style="fill:#000000;font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">ASHANTI WEST</tspan></tspan></text>
+  <text
+     id="text178"
+     y="243.000000"
+     x="36.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,54.000000,88.000000)"
+     style="font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan176"
+       y="243.000000"
+       x="36.000000"><tspan
+         id="tspan174"
+         style="fill:#000000;font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">TEMA</tspan></tspan></text>
+  <text
+     id="text188"
+     y="284.000000"
+     x="90.156250"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,54.000000,88.000000)"
+     style="font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:250.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:end;text-anchor:end;"
+     xml:space="preserve"><tspan
+       id="tspan182"
+       y="284.000000"
+       x="90.156250"><tspan
+         id="tspan180"
+         style="fill:#000000;font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">ACCRA WEST</tspan></tspan><tspan
+       id="tspan186"
+       y="324.000000"
+       x="88.890625"><tspan
+         id="tspan184"
+         style="fill:#000000;font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">ACCRA EAST</tspan></tspan></text>
+  <text
+     id="text194"
+     y="365.000000"
+     x="27.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,54.000000,88.000000)"
+     style="font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan192"
+       y="365.000000"
+       x="27.000000"><tspan
+         id="tspan190"
+         style="fill:#000000;font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Tamale</tspan></tspan></text>
+  <path
+     id="path196"
+     d="  M 141,62   L 1,62  "
+     clip-path="url(#clipEmfPath3)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path198"
+     d="  M 141,467   L 1,467  "
+     clip-path="url(#clipEmfPath3)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path200"
+     d="  M 141,62   L 141,468   L 1046,468   L 1046,62   L 141,62   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path202"
+     d="  M 141,104   L 141,468   L 1046,468   L 1046,104   L 141,104   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path204"
+     d="  M 141,62   L 141,468   L 1046,468   L 1046,62   L 141,62   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path206"
+     d="  M 141,62   L 141,468   L 593,468   L 593,62   L 141,62   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path208"
+     d="  M 200,466   L 200,62  "
+     clip-path="url(#clipEmfPath4)"
+     style="fill:none;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path210"
+     d="  M 259,466   L 259,62  "
+     clip-path="url(#clipEmfPath4)"
+     style="fill:none;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path212"
+     d="  M 318,466   L 318,62  "
+     clip-path="url(#clipEmfPath4)"
+     style="fill:none;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path214"
+     d="  M 377,466   L 377,62  "
+     clip-path="url(#clipEmfPath4)"
+     style="fill:none;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path216"
+     d="  M 436,466   L 436,62  "
+     clip-path="url(#clipEmfPath4)"
+     style="fill:none;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path218"
+     d="  M 495,466   L 495,62  "
+     clip-path="url(#clipEmfPath4)"
+     style="fill:none;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path220"
+     d="  M 554,466   L 554,62  "
+     clip-path="url(#clipEmfPath4)"
+     style="fill:none;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path222"
+     d="  M 140.5,466   L 140.5,465   L 141.5,465   L 141.5,466   L 140.5,466  z    M 140.5,464   L 140.5,463   L 141.5,463   L 141.5,464   L 140.5,464  z    M 140.5,462   L 140.5,461   L 141.5,461   L 141.5,462   L 140.5,462  z    M 140.5,460   L 140.5,459   L 141.5,459   L 141.5,460   L 140.5,460  z    M 140.5,458   L 140.5,457   L 141.5,457   L 141.5,458   L 140.5,458  z    M 140.5,456   L 140.5,455   L 141.5,455   L 141.5,456   L 140.5,456  z    M 140.5,454   L 140.5,453   L 141.5,453   L 141.5,454   L 140.5,454  z    M 140.5,452   L 140.5,451   L 141.5,451   L 141.5,452   L 140.5,452  z    M 140.5,450   L 140.5,449   L 141.5,449   L 141.5,450   L 140.5,450  z    M 140.5,448   L 140.5,447   L 141.5,447   L 141.5,448   L 140.5,448  z    M 140.5,446   L 140.5,445   L 141.5,445   L 141.5,446   L 140.5,446  z    M 140.5,444   L 140.5,443   L 141.5,443   L 141.5,444   L 140.5,444  z    M 140.5,442   L 140.5,441   L 141.5,441   L 141.5,442   L 140.5,442  z    M 140.5,440   L 140.5,439   L 141.5,439   L 141.5,440   L 140.5,440  z    M 140.5,438   L 140.5,437   L 141.5,437   L 141.5,438   L 140.5,438  z    M 140.5,436   L 140.5,435   L 141.5,435   L 141.5,436   L 140.5,436  z    M 140.5,434   L 140.5,433   L 141.5,433   L 141.5,434   L 140.5,434  z    M 140.5,432   L 140.5,431   L 141.5,431   L 141.5,432   L 140.5,432  z    M 140.5,430   L 140.5,429   L 141.5,429   L 141.5,430   L 140.5,430  z    M 140.5,428   L 140.5,427   L 141.5,427   L 141.5,428   L 140.5,428  z    M 140.5,426   L 140.5,425   L 141.5,425   L 141.5,426   L 140.5,426  z    M 140.5,424   L 140.5,423   L 141.5,423   L 141.5,424   L 140.5,424  z    M 140.5,422   L 140.5,421   L 141.5,421   L 141.5,422   L 140.5,422  z    M 140.5,420   L 140.5,419   L 141.5,419   L 141.5,420   L 140.5,420  z    M 140.5,418   L 140.5,417   L 141.5,417   L 141.5,418   L 140.5,418  z    M 140.5,416   L 140.5,415   L 141.5,415   L 141.5,416   L 140.5,416  z    M 140.5,414   L 140.5,413   L 141.5,413   L 141.5,414   L 140.5,414  z    M 140.5,412   L 140.5,411   L 141.5,411   L 141.5,412   L 140.5,412  z    M 140.5,410   L 140.5,409   L 141.5,409   L 141.5,410   L 140.5,410  z    M 140.5,408   L 140.5,407   L 141.5,407   L 141.5,408   L 140.5,408  z    M 140.5,406   L 140.5,405   L 141.5,405   L 141.5,406   L 140.5,406  z    M 140.5,404   L 140.5,403   L 141.5,403   L 141.5,404   L 140.5,404  z    M 140.5,402   L 140.5,401   L 141.5,401   L 141.5,402   L 140.5,402  z    M 140.5,400   L 140.5,399   L 141.5,399   L 141.5,400   L 140.5,400  z    M 140.5,398   L 140.5,397   L 141.5,397   L 141.5,398   L 140.5,398  z    M 140.5,396   L 140.5,395   L 141.5,395   L 141.5,396   L 140.5,396  z    M 140.5,394   L 140.5,393   L 141.5,393   L 141.5,394   L 140.5,394  z    M 140.5,392   L 140.5,391   L 141.5,391   L 141.5,392   L 140.5,392  z    M 140.5,390   L 140.5,389   L 141.5,389   L 141.5,390   L 140.5,390  z    M 140.5,388   L 140.5,387   L 141.5,387   L 141.5,388   L 140.5,388  z    M 140.5,386   L 140.5,385   L 141.5,385   L 141.5,386   L 140.5,386  z    M 140.5,384   L 140.5,383   L 141.5,383   L 141.5,384   L 140.5,384  z    M 140.5,382   L 140.5,381   L 141.5,381   L 141.5,382   L 140.5,382  z    M 140.5,380   L 140.5,379   L 141.5,379   L 141.5,380   L 140.5,380  z    M 140.5,378   L 140.5,377   L 141.5,377   L 141.5,378   L 140.5,378  z    M 140.5,376   L 140.5,375   L 141.5,375   L 141.5,376   L 140.5,376  z    M 140.5,374   L 140.5,373   L 141.5,373   L 141.5,374   L 140.5,374  z    M 140.5,372   L 140.5,371   L 141.5,371   L 141.5,372   L 140.5,372  z    M 140.5,370   L 140.5,369   L 141.5,369   L 141.5,370   L 140.5,370  z    M 140.5,368   L 140.5,367   L 141.5,367   L 141.5,368   L 140.5,368  z    M 140.5,366   L 140.5,365   L 141.5,365   L 141.5,366   L 140.5,366  z    M 140.5,364   L 140.5,363   L 141.5,363   L 141.5,364   L 140.5,364  z    M 140.5,362   L 140.5,361   L 141.5,361   L 141.5,362   L 140.5,362  z    M 140.5,360   L 140.5,359   L 141.5,359   L 141.5,360   L 140.5,360  z    M 140.5,358   L 140.5,357   L 141.5,357   L 141.5,358   L 140.5,358  z    M 140.5,356   L 140.5,355   L 141.5,355   L 141.5,356   L 140.5,356  z    M 140.5,354   L 140.5,353   L 141.5,353   L 141.5,354   L 140.5,354  z    M 140.5,352   L 140.5,351   L 141.5,351   L 141.5,352   L 140.5,352  z    M 140.5,350   L 140.5,349   L 141.5,349   L 141.5,350   L 140.5,350  z    M 140.5,348   L 140.5,347   L 141.5,347   L 141.5,348   L 140.5,348  z    M 140.5,346   L 140.5,345   L 141.5,345   L 141.5,346   L 140.5,346  z    M 140.5,344   L 140.5,343   L 141.5,343   L 141.5,344   L 140.5,344  z    M 140.5,342   L 140.5,341   L 141.5,341   L 141.5,342   L 140.5,342  z    M 140.5,340   L 140.5,339   L 141.5,339   L 141.5,340   L 140.5,340  z    M 140.5,338   L 140.5,337   L 141.5,337   L 141.5,338   L 140.5,338  z    M 140.5,336   L 140.5,335   L 141.5,335   L 141.5,336   L 140.5,336  z    M 140.5,334   L 140.5,333   L 141.5,333   L 141.5,334   L 140.5,334  z    M 140.5,332   L 140.5,331   L 141.5,331   L 141.5,332   L 140.5,332  z    M 140.5,330   L 140.5,329   L 141.5,329   L 141.5,330   L 140.5,330  z    M 140.5,328   L 140.5,327   L 141.5,327   L 141.5,328   L 140.5,328  z    M 140.5,326   L 140.5,325   L 141.5,325   L 141.5,326   L 140.5,326  z    M 140.5,324   L 140.5,323   L 141.5,323   L 141.5,324   L 140.5,324  z    M 140.5,322   L 140.5,321   L 141.5,321   L 141.5,322   L 140.5,322  z    M 140.5,320   L 140.5,319   L 141.5,319   L 141.5,320   L 140.5,320  z    M 140.5,318   L 140.5,317   L 141.5,317   L 141.5,318   L 140.5,318  z    M 140.5,316   L 140.5,315   L 141.5,315   L 141.5,316   L 140.5,316  z    M 140.5,314   L 140.5,313   L 141.5,313   L 141.5,314   L 140.5,314  z    M 140.5,312   L 140.5,311   L 141.5,311   L 141.5,312   L 140.5,312  z    M 140.5,310   L 140.5,309   L 141.5,309   L 141.5,310   L 140.5,310  z    M 140.5,308   L 140.5,307   L 141.5,307   L 141.5,308   L 140.5,308  z    M 140.5,306   L 140.5,305   L 141.5,305   L 141.5,306   L 140.5,306  z    M 140.5,304   L 140.5,303   L 141.5,303   L 141.5,304   L 140.5,304  z    M 140.5,302   L 140.5,301   L 141.5,301   L 141.5,302   L 140.5,302  z    M 140.5,300   L 140.5,299   L 141.5,299   L 141.5,300   L 140.5,300  z    M 140.5,298   L 140.5,297   L 141.5,297   L 141.5,298   L 140.5,298  z    M 140.5,296   L 140.5,295   L 141.5,295   L 141.5,296   L 140.5,296  z    M 140.5,294   L 140.5,293   L 141.5,293   L 141.5,294   L 140.5,294  z    M 140.5,292   L 140.5,291   L 141.5,291   L 141.5,292   L 140.5,292  z    M 140.5,290   L 140.5,289   L 141.5,289   L 141.5,290   L 140.5,290  z    M 140.5,288   L 140.5,287   L 141.5,287   L 141.5,288   L 140.5,288  z    M 140.5,286   L 140.5,285   L 141.5,285   L 141.5,286   L 140.5,286  z    M 140.5,284   L 140.5,283   L 141.5,283   L 141.5,284   L 140.5,284  z    M 140.5,282   L 140.5,281   L 141.5,281   L 141.5,282   L 140.5,282  z    M 140.5,280   L 140.5,279   L 141.5,279   L 141.5,280   L 140.5,280  z    M 140.5,278   L 140.5,277   L 141.5,277   L 141.5,278   L 140.5,278  z    M 140.5,276   L 140.5,275   L 141.5,275   L 141.5,276   L 140.5,276  z    M 140.5,274   L 140.5,273   L 141.5,273   L 141.5,274   L 140.5,274  z    M 140.5,272   L 140.5,271   L 141.5,271   L 141.5,272   L 140.5,272  z    M 140.5,270   L 140.5,269   L 141.5,269   L 141.5,270   L 140.5,270  z    M 140.5,268   L 140.5,267   L 141.5,267   L 141.5,268   L 140.5,268  z    M 140.5,266   L 140.5,265   L 141.5,265   L 141.5,266   L 140.5,266  z    M 140.5,264   L 140.5,263   L 141.5,263   L 141.5,264   L 140.5,264  z    M 140.5,262   L 140.5,261   L 141.5,261   L 141.5,262   L 140.5,262  z    M 140.5,260   L 140.5,259   L 141.5,259   L 141.5,260   L 140.5,260  z    M 140.5,258   L 140.5,257   L 141.5,257   L 141.5,258   L 140.5,258  z    M 140.5,256   L 140.5,255   L 141.5,255   L 141.5,256   L 140.5,256  z    M 140.5,254   L 140.5,253   L 141.5,253   L 141.5,254   L 140.5,254  z    M 140.5,252   L 140.5,251   L 141.5,251   L 141.5,252   L 140.5,252  z    M 140.5,250   L 140.5,249   L 141.5,249   L 141.5,250   L 140.5,250  z    M 140.5,248   L 140.5,247   L 141.5,247   L 141.5,248   L 140.5,248  z    M 140.5,246   L 140.5,245   L 141.5,245   L 141.5,246   L 140.5,246  z    M 140.5,244   L 140.5,243   L 141.5,243   L 141.5,244   L 140.5,244  z    M 140.5,242   L 140.5,241   L 141.5,241   L 141.5,242   L 140.5,242  z    M 140.5,240   L 140.5,239   L 141.5,239   L 141.5,240   L 140.5,240  z    M 140.5,238   L 140.5,237   L 141.5,237   L 141.5,238   L 140.5,238  z    M 140.5,236   L 140.5,235   L 141.5,235   L 141.5,236   L 140.5,236  z    M 140.5,234   L 140.5,233   L 141.5,233   L 141.5,234   L 140.5,234  z    M 140.5,232   L 140.5,231   L 141.5,231   L 141.5,232   L 140.5,232  z    M 140.5,230   L 140.5,229   L 141.5,229   L 141.5,230   L 140.5,230  z    M 140.5,228   L 140.5,227   L 141.5,227   L 141.5,228   L 140.5,228  z    M 140.5,226   L 140.5,225   L 141.5,225   L 141.5,226   L 140.5,226  z    M 140.5,224   L 140.5,223   L 141.5,223   L 141.5,224   L 140.5,224  z    M 140.5,222   L 140.5,221   L 141.5,221   L 141.5,222   L 140.5,222  z    M 140.5,220   L 140.5,219   L 141.5,219   L 141.5,220   L 140.5,220  z    M 140.5,218   L 140.5,217   L 141.5,217   L 141.5,218   L 140.5,218  z    M 140.5,216   L 140.5,215   L 141.5,215   L 141.5,216   L 140.5,216  z    M 140.5,214   L 140.5,213   L 141.5,213   L 141.5,214   L 140.5,214  z    M 140.5,212   L 140.5,211   L 141.5,211   L 141.5,212   L 140.5,212  z    M 140.5,210   L 140.5,209   L 141.5,209   L 141.5,210   L 140.5,210  z    M 140.5,208   L 140.5,207   L 141.5,207   L 141.5,208   L 140.5,208  z    M 140.5,206   L 140.5,205   L 141.5,205   L 141.5,206   L 140.5,206  z    M 140.5,204   L 140.5,203   L 141.5,203   L 141.5,204   L 140.5,204  z    M 140.5,202   L 140.5,201   L 141.5,201   L 141.5,202   L 140.5,202  z    M 140.5,200   L 140.5,199   L 141.5,199   L 141.5,200   L 140.5,200  z    M 140.5,198   L 140.5,197   L 141.5,197   L 141.5,198   L 140.5,198  z    M 140.5,196   L 140.5,195   L 141.5,195   L 141.5,196   L 140.5,196  z    M 140.5,194   L 140.5,193   L 141.5,193   L 141.5,194   L 140.5,194  z    M 140.5,192   L 140.5,191   L 141.5,191   L 141.5,192   L 140.5,192  z    M 140.5,190   L 140.5,189   L 141.5,189   L 141.5,190   L 140.5,190  z    M 140.5,188   L 140.5,187   L 141.5,187   L 141.5,188   L 140.5,188  z    M 140.5,186   L 140.5,185   L 141.5,185   L 141.5,186   L 140.5,186  z    M 140.5,184   L 140.5,183   L 141.5,183   L 141.5,184   L 140.5,184  z    M 140.5,182   L 140.5,181   L 141.5,181   L 141.5,182   L 140.5,182  z    M 140.5,180   L 140.5,179   L 141.5,179   L 141.5,180   L 140.5,180  z    M 140.5,178   L 140.5,177   L 141.5,177   L 141.5,178   L 140.5,178  z    M 140.5,176   L 140.5,175   L 141.5,175   L 141.5,176   L 140.5,176  z    M 140.5,174   L 140.5,173   L 141.5,173   L 141.5,174   L 140.5,174  z    M 140.5,172   L 140.5,171   L 141.5,171   L 141.5,172   L 140.5,172  z    M 140.5,170   L 140.5,169   L 141.5,169   L 141.5,170   L 140.5,170  z    M 140.5,168   L 140.5,167   L 141.5,167   L 141.5,168   L 140.5,168  z    M 140.5,166   L 140.5,165   L 141.5,165   L 141.5,166   L 140.5,166  z    M 140.5,164   L 140.5,163   L 141.5,163   L 141.5,164   L 140.5,164  z    M 140.5,162   L 140.5,161   L 141.5,161   L 141.5,162   L 140.5,162  z    M 140.5,160   L 140.5,159   L 141.5,159   L 141.5,160   L 140.5,160  z    M 140.5,158   L 140.5,157   L 141.5,157   L 141.5,158   L 140.5,158  z    M 140.5,156   L 140.5,155   L 141.5,155   L 141.5,156   L 140.5,156  z    M 140.5,154   L 140.5,153   L 141.5,153   L 141.5,154   L 140.5,154  z    M 140.5,152   L 140.5,151   L 141.5,151   L 141.5,152   L 140.5,152  z    M 140.5,150   L 140.5,149   L 141.5,149   L 141.5,150   L 140.5,150  z    M 140.5,148   L 140.5,147   L 141.5,147   L 141.5,148   L 140.5,148  z    M 140.5,146   L 140.5,145   L 141.5,145   L 141.5,146   L 140.5,146  z    M 140.5,144   L 140.5,143   L 141.5,143   L 141.5,144   L 140.5,144  z    M 140.5,142   L 140.5,141   L 141.5,141   L 141.5,142   L 140.5,142  z    M 140.5,140   L 140.5,139   L 141.5,139   L 141.5,140   L 140.5,140  z    M 140.5,138   L 140.5,137   L 141.5,137   L 141.5,138   L 140.5,138  z    M 140.5,136   L 140.5,135   L 141.5,135   L 141.5,136   L 140.5,136  z    M 140.5,134   L 140.5,133   L 141.5,133   L 141.5,134   L 140.5,134  z    M 140.5,132   L 140.5,131   L 141.5,131   L 141.5,132   L 140.5,132  z    M 140.5,130   L 140.5,129   L 141.5,129   L 141.5,130   L 140.5,130  z    M 140.5,128   L 140.5,127   L 141.5,127   L 141.5,128   L 140.5,128  z    M 140.5,126   L 140.5,125   L 141.5,125   L 141.5,126   L 140.5,126  z    M 140.5,124   L 140.5,123   L 141.5,123   L 141.5,124   L 140.5,124  z    M 140.5,122   L 140.5,121   L 141.5,121   L 141.5,122   L 140.5,122  z    M 140.5,120   L 140.5,119   L 141.5,119   L 141.5,120   L 140.5,120  z    M 140.5,118   L 140.5,117   L 141.5,117   L 141.5,118   L 140.5,118  z    M 140.5,116   L 140.5,115   L 141.5,115   L 141.5,116   L 140.5,116  z    M 140.5,114   L 140.5,113   L 141.5,113   L 141.5,114   L 140.5,114  z    M 140.5,112   L 140.5,111   L 141.5,111   L 141.5,112   L 140.5,112  z    M 140.5,110   L 140.5,109   L 141.5,109   L 141.5,110   L 140.5,110  z    M 140.5,108   L 140.5,107   L 141.5,107   L 141.5,108   L 140.5,108  z    M 140.5,106   L 140.5,105   L 141.5,105   L 141.5,106   L 140.5,106  z    M 140.5,104   L 140.5,103   L 141.5,103   L 141.5,104   L 140.5,104  z    M 140.5,102   L 140.5,101   L 141.5,101   L 141.5,102   L 140.5,102  z    M 140.5,100   L 140.5,99   L 141.5,99   L 141.5,100   L 140.5,100  z    M 140.5,98   L 140.5,97   L 141.5,97   L 141.5,98   L 140.5,98  z    M 140.5,96   L 140.5,95   L 141.5,95   L 141.5,96   L 140.5,96  z    M 140.5,94   L 140.5,93   L 141.5,93   L 141.5,94   L 140.5,94  z    M 140.5,92   L 140.5,91   L 141.5,91   L 141.5,92   L 140.5,92  z    M 140.5,90   L 140.5,89   L 141.5,89   L 141.5,90   L 140.5,90  z    M 140.5,88   L 140.5,87   L 141.5,87   L 141.5,88   L 140.5,88  z    M 140.5,86   L 140.5,85   L 141.5,85   L 141.5,86   L 140.5,86  z    M 140.5,84   L 140.5,83   L 141.5,83   L 141.5,84   L 140.5,84  z    M 140.5,82   L 140.5,81   L 141.5,81   L 141.5,82   L 140.5,82  z    M 140.5,80   L 140.5,79   L 141.5,79   L 141.5,80   L 140.5,80  z    M 140.5,78   L 140.5,77   L 141.5,77   L 141.5,78   L 140.5,78  z    M 140.5,76   L 140.5,75   L 141.5,75   L 141.5,76   L 140.5,76  z    M 140.5,74   L 140.5,73   L 141.5,73   L 141.5,74   L 140.5,74  z    M 140.5,72   L 140.5,71   L 141.5,71   L 141.5,72   L 140.5,72  z    M 140.5,70   L 140.5,69   L 141.5,69   L 141.5,70   L 140.5,70  z    M 140.5,68   L 140.5,67   L 141.5,67   L 141.5,68   L 140.5,68  z    M 140.5,66   L 140.5,65   L 141.5,65   L 141.5,66   L 140.5,66  z    M 140.5,64   L 140.5,63   L 141.5,63   L 141.5,64   L 140.5,64  z   "
+     clip-path="url(#clipEmfPath4)"
+     style="fill:#cbcbcb;fill-rule:nonzero;fill-opacity:1;stroke:none;" />
+  <path
+     id="path224"
+     d="  M 141,432   L 141,462   L 202,462   L 202,432   L 141,432   z "
+     style="fill:#b07aa1;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path226"
+     d="  M 141,391   L 141,421   L 376,421   L 376,391   L 141,391   z "
+     style="fill:#4e79a7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path228"
+     d="  M 141,351   L 141,381   L 571,381   L 571,351   L 141,351   z "
+     style="fill:#f28e2b;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path230"
+     d="  M 141,310   L 141,340   L 427,340   L 427,310   L 141,310   z "
+     style="fill:#ff9da7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path232"
+     d="  M 141,270   L 141,300   L 291,300   L 291,270   L 141,270   z "
+     style="fill:#76b7b2;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path234"
+     d="  M 141,229   L 141,259   L 390,259   L 390,229   L 141,229   z "
+     style="fill:#e15759;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path236"
+     d="  M 141,189   L 141,219   L 311,219   L 311,189   L 141,189   z "
+     style="fill:#9c755f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path238"
+     d="  M 141,148   L 141,178   L 380,178   L 380,148   L 141,148   z "
+     style="fill:#59a14f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path240"
+     d="  M 141,108   L 141,138   L 356,138   L 356,108   L 141,108   z "
+     style="fill:#edc948;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path242"
+     d="  M 141,67   L 141,97   L 445,97   L 445,67   L 141,67   z "
+     style="fill:#bab0ac;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path244"
+     d="  M 141,62   L 141,467  "
+     clip-path="url(#clipEmfPath5)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path246"
+     d="  M 593,62   L 593,467  "
+     clip-path="url(#clipEmfPath5)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path248"
+     d="  M 141,62   L 593,62  "
+     clip-path="url(#clipEmfPath5)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path250"
+     d="  M 141,467   L 593,467  "
+     clip-path="url(#clipEmfPath5)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path252"
+     d="  M 593,62   L 593,468   L 1046,468   L 1046,62   L 593,62   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path254"
+     d="  M 674,466   L 674,62  "
+     clip-path="url(#clipEmfPath6)"
+     style="fill:none;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path256"
+     d="  M 756,466   L 756,62  "
+     clip-path="url(#clipEmfPath6)"
+     style="fill:none;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path258"
+     d="  M 837,466   L 837,62  "
+     clip-path="url(#clipEmfPath6)"
+     style="fill:none;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path260"
+     d="  M 918,466   L 918,62  "
+     clip-path="url(#clipEmfPath6)"
+     style="fill:none;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path262"
+     d="  M 999,466   L 999,62  "
+     clip-path="url(#clipEmfPath6)"
+     style="fill:none;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path264"
+     d="  M 592.5,466   L 592.5,465   L 593.5,465   L 593.5,466   L 592.5,466  z    M 592.5,464   L 592.5,463   L 593.5,463   L 593.5,464   L 592.5,464  z    M 592.5,462   L 592.5,461   L 593.5,461   L 593.5,462   L 592.5,462  z    M 592.5,460   L 592.5,459   L 593.5,459   L 593.5,460   L 592.5,460  z    M 592.5,458   L 592.5,457   L 593.5,457   L 593.5,458   L 592.5,458  z    M 592.5,456   L 592.5,455   L 593.5,455   L 593.5,456   L 592.5,456  z    M 592.5,454   L 592.5,453   L 593.5,453   L 593.5,454   L 592.5,454  z    M 592.5,452   L 592.5,451   L 593.5,451   L 593.5,452   L 592.5,452  z    M 592.5,450   L 592.5,449   L 593.5,449   L 593.5,450   L 592.5,450  z    M 592.5,448   L 592.5,447   L 593.5,447   L 593.5,448   L 592.5,448  z    M 592.5,446   L 592.5,445   L 593.5,445   L 593.5,446   L 592.5,446  z    M 592.5,444   L 592.5,443   L 593.5,443   L 593.5,444   L 592.5,444  z    M 592.5,442   L 592.5,441   L 593.5,441   L 593.5,442   L 592.5,442  z    M 592.5,440   L 592.5,439   L 593.5,439   L 593.5,440   L 592.5,440  z    M 592.5,438   L 592.5,437   L 593.5,437   L 593.5,438   L 592.5,438  z    M 592.5,436   L 592.5,435   L 593.5,435   L 593.5,436   L 592.5,436  z    M 592.5,434   L 592.5,433   L 593.5,433   L 593.5,434   L 592.5,434  z    M 592.5,432   L 592.5,431   L 593.5,431   L 593.5,432   L 592.5,432  z    M 592.5,430   L 592.5,429   L 593.5,429   L 593.5,430   L 592.5,430  z    M 592.5,428   L 592.5,427   L 593.5,427   L 593.5,428   L 592.5,428  z    M 592.5,426   L 592.5,425   L 593.5,425   L 593.5,426   L 592.5,426  z    M 592.5,424   L 592.5,423   L 593.5,423   L 593.5,424   L 592.5,424  z    M 592.5,422   L 592.5,421   L 593.5,421   L 593.5,422   L 592.5,422  z    M 592.5,420   L 592.5,419   L 593.5,419   L 593.5,420   L 592.5,420  z    M 592.5,418   L 592.5,417   L 593.5,417   L 593.5,418   L 592.5,418  z    M 592.5,416   L 592.5,415   L 593.5,415   L 593.5,416   L 592.5,416  z    M 592.5,414   L 592.5,413   L 593.5,413   L 593.5,414   L 592.5,414  z    M 592.5,412   L 592.5,411   L 593.5,411   L 593.5,412   L 592.5,412  z    M 592.5,410   L 592.5,409   L 593.5,409   L 593.5,410   L 592.5,410  z    M 592.5,408   L 592.5,407   L 593.5,407   L 593.5,408   L 592.5,408  z    M 592.5,406   L 592.5,405   L 593.5,405   L 593.5,406   L 592.5,406  z    M 592.5,404   L 592.5,403   L 593.5,403   L 593.5,404   L 592.5,404  z    M 592.5,402   L 592.5,401   L 593.5,401   L 593.5,402   L 592.5,402  z    M 592.5,400   L 592.5,399   L 593.5,399   L 593.5,400   L 592.5,400  z    M 592.5,398   L 592.5,397   L 593.5,397   L 593.5,398   L 592.5,398  z    M 592.5,396   L 592.5,395   L 593.5,395   L 593.5,396   L 592.5,396  z    M 592.5,394   L 592.5,393   L 593.5,393   L 593.5,394   L 592.5,394  z    M 592.5,392   L 592.5,391   L 593.5,391   L 593.5,392   L 592.5,392  z    M 592.5,390   L 592.5,389   L 593.5,389   L 593.5,390   L 592.5,390  z    M 592.5,388   L 592.5,387   L 593.5,387   L 593.5,388   L 592.5,388  z    M 592.5,386   L 592.5,385   L 593.5,385   L 593.5,386   L 592.5,386  z    M 592.5,384   L 592.5,383   L 593.5,383   L 593.5,384   L 592.5,384  z    M 592.5,382   L 592.5,381   L 593.5,381   L 593.5,382   L 592.5,382  z    M 592.5,380   L 592.5,379   L 593.5,379   L 593.5,380   L 592.5,380  z    M 592.5,378   L 592.5,377   L 593.5,377   L 593.5,378   L 592.5,378  z    M 592.5,376   L 592.5,375   L 593.5,375   L 593.5,376   L 592.5,376  z    M 592.5,374   L 592.5,373   L 593.5,373   L 593.5,374   L 592.5,374  z    M 592.5,372   L 592.5,371   L 593.5,371   L 593.5,372   L 592.5,372  z    M 592.5,370   L 592.5,369   L 593.5,369   L 593.5,370   L 592.5,370  z    M 592.5,368   L 592.5,367   L 593.5,367   L 593.5,368   L 592.5,368  z    M 592.5,366   L 592.5,365   L 593.5,365   L 593.5,366   L 592.5,366  z    M 592.5,364   L 592.5,363   L 593.5,363   L 593.5,364   L 592.5,364  z    M 592.5,362   L 592.5,361   L 593.5,361   L 593.5,362   L 592.5,362  z    M 592.5,360   L 592.5,359   L 593.5,359   L 593.5,360   L 592.5,360  z    M 592.5,358   L 592.5,357   L 593.5,357   L 593.5,358   L 592.5,358  z    M 592.5,356   L 592.5,355   L 593.5,355   L 593.5,356   L 592.5,356  z    M 592.5,354   L 592.5,353   L 593.5,353   L 593.5,354   L 592.5,354  z    M 592.5,352   L 592.5,351   L 593.5,351   L 593.5,352   L 592.5,352  z    M 592.5,350   L 592.5,349   L 593.5,349   L 593.5,350   L 592.5,350  z    M 592.5,348   L 592.5,347   L 593.5,347   L 593.5,348   L 592.5,348  z    M 592.5,346   L 592.5,345   L 593.5,345   L 593.5,346   L 592.5,346  z    M 592.5,344   L 592.5,343   L 593.5,343   L 593.5,344   L 592.5,344  z    M 592.5,342   L 592.5,341   L 593.5,341   L 593.5,342   L 592.5,342  z    M 592.5,340   L 592.5,339   L 593.5,339   L 593.5,340   L 592.5,340  z    M 592.5,338   L 592.5,337   L 593.5,337   L 593.5,338   L 592.5,338  z    M 592.5,336   L 592.5,335   L 593.5,335   L 593.5,336   L 592.5,336  z    M 592.5,334   L 592.5,333   L 593.5,333   L 593.5,334   L 592.5,334  z    M 592.5,332   L 592.5,331   L 593.5,331   L 593.5,332   L 592.5,332  z    M 592.5,330   L 592.5,329   L 593.5,329   L 593.5,330   L 592.5,330  z    M 592.5,328   L 592.5,327   L 593.5,327   L 593.5,328   L 592.5,328  z    M 592.5,326   L 592.5,325   L 593.5,325   L 593.5,326   L 592.5,326  z    M 592.5,324   L 592.5,323   L 593.5,323   L 593.5,324   L 592.5,324  z    M 592.5,322   L 592.5,321   L 593.5,321   L 593.5,322   L 592.5,322  z    M 592.5,320   L 592.5,319   L 593.5,319   L 593.5,320   L 592.5,320  z    M 592.5,318   L 592.5,317   L 593.5,317   L 593.5,318   L 592.5,318  z    M 592.5,316   L 592.5,315   L 593.5,315   L 593.5,316   L 592.5,316  z    M 592.5,314   L 592.5,313   L 593.5,313   L 593.5,314   L 592.5,314  z    M 592.5,312   L 592.5,311   L 593.5,311   L 593.5,312   L 592.5,312  z    M 592.5,310   L 592.5,309   L 593.5,309   L 593.5,310   L 592.5,310  z    M 592.5,308   L 592.5,307   L 593.5,307   L 593.5,308   L 592.5,308  z    M 592.5,306   L 592.5,305   L 593.5,305   L 593.5,306   L 592.5,306  z    M 592.5,304   L 592.5,303   L 593.5,303   L 593.5,304   L 592.5,304  z    M 592.5,302   L 592.5,301   L 593.5,301   L 593.5,302   L 592.5,302  z    M 592.5,300   L 592.5,299   L 593.5,299   L 593.5,300   L 592.5,300  z    M 592.5,298   L 592.5,297   L 593.5,297   L 593.5,298   L 592.5,298  z    M 592.5,296   L 592.5,295   L 593.5,295   L 593.5,296   L 592.5,296  z    M 592.5,294   L 592.5,293   L 593.5,293   L 593.5,294   L 592.5,294  z    M 592.5,292   L 592.5,291   L 593.5,291   L 593.5,292   L 592.5,292  z    M 592.5,290   L 592.5,289   L 593.5,289   L 593.5,290   L 592.5,290  z    M 592.5,288   L 592.5,287   L 593.5,287   L 593.5,288   L 592.5,288  z    M 592.5,286   L 592.5,285   L 593.5,285   L 593.5,286   L 592.5,286  z    M 592.5,284   L 592.5,283   L 593.5,283   L 593.5,284   L 592.5,284  z    M 592.5,282   L 592.5,281   L 593.5,281   L 593.5,282   L 592.5,282  z    M 592.5,280   L 592.5,279   L 593.5,279   L 593.5,280   L 592.5,280  z    M 592.5,278   L 592.5,277   L 593.5,277   L 593.5,278   L 592.5,278  z    M 592.5,276   L 592.5,275   L 593.5,275   L 593.5,276   L 592.5,276  z    M 592.5,274   L 592.5,273   L 593.5,273   L 593.5,274   L 592.5,274  z    M 592.5,272   L 592.5,271   L 593.5,271   L 593.5,272   L 592.5,272  z    M 592.5,270   L 592.5,269   L 593.5,269   L 593.5,270   L 592.5,270  z    M 592.5,268   L 592.5,267   L 593.5,267   L 593.5,268   L 592.5,268  z    M 592.5,266   L 592.5,265   L 593.5,265   L 593.5,266   L 592.5,266  z    M 592.5,264   L 592.5,263   L 593.5,263   L 593.5,264   L 592.5,264  z    M 592.5,262   L 592.5,261   L 593.5,261   L 593.5,262   L 592.5,262  z    M 592.5,260   L 592.5,259   L 593.5,259   L 593.5,260   L 592.5,260  z    M 592.5,258   L 592.5,257   L 593.5,257   L 593.5,258   L 592.5,258  z    M 592.5,256   L 592.5,255   L 593.5,255   L 593.5,256   L 592.5,256  z    M 592.5,254   L 592.5,253   L 593.5,253   L 593.5,254   L 592.5,254  z    M 592.5,252   L 592.5,251   L 593.5,251   L 593.5,252   L 592.5,252  z    M 592.5,250   L 592.5,249   L 593.5,249   L 593.5,250   L 592.5,250  z    M 592.5,248   L 592.5,247   L 593.5,247   L 593.5,248   L 592.5,248  z    M 592.5,246   L 592.5,245   L 593.5,245   L 593.5,246   L 592.5,246  z    M 592.5,244   L 592.5,243   L 593.5,243   L 593.5,244   L 592.5,244  z    M 592.5,242   L 592.5,241   L 593.5,241   L 593.5,242   L 592.5,242  z    M 592.5,240   L 592.5,239   L 593.5,239   L 593.5,240   L 592.5,240  z    M 592.5,238   L 592.5,237   L 593.5,237   L 593.5,238   L 592.5,238  z    M 592.5,236   L 592.5,235   L 593.5,235   L 593.5,236   L 592.5,236  z    M 592.5,234   L 592.5,233   L 593.5,233   L 593.5,234   L 592.5,234  z    M 592.5,232   L 592.5,231   L 593.5,231   L 593.5,232   L 592.5,232  z    M 592.5,230   L 592.5,229   L 593.5,229   L 593.5,230   L 592.5,230  z    M 592.5,228   L 592.5,227   L 593.5,227   L 593.5,228   L 592.5,228  z    M 592.5,226   L 592.5,225   L 593.5,225   L 593.5,226   L 592.5,226  z    M 592.5,224   L 592.5,223   L 593.5,223   L 593.5,224   L 592.5,224  z    M 592.5,222   L 592.5,221   L 593.5,221   L 593.5,222   L 592.5,222  z    M 592.5,220   L 592.5,219   L 593.5,219   L 593.5,220   L 592.5,220  z    M 592.5,218   L 592.5,217   L 593.5,217   L 593.5,218   L 592.5,218  z    M 592.5,216   L 592.5,215   L 593.5,215   L 593.5,216   L 592.5,216  z    M 592.5,214   L 592.5,213   L 593.5,213   L 593.5,214   L 592.5,214  z    M 592.5,212   L 592.5,211   L 593.5,211   L 593.5,212   L 592.5,212  z    M 592.5,210   L 592.5,209   L 593.5,209   L 593.5,210   L 592.5,210  z    M 592.5,208   L 592.5,207   L 593.5,207   L 593.5,208   L 592.5,208  z    M 592.5,206   L 592.5,205   L 593.5,205   L 593.5,206   L 592.5,206  z    M 592.5,204   L 592.5,203   L 593.5,203   L 593.5,204   L 592.5,204  z    M 592.5,202   L 592.5,201   L 593.5,201   L 593.5,202   L 592.5,202  z    M 592.5,200   L 592.5,199   L 593.5,199   L 593.5,200   L 592.5,200  z    M 592.5,198   L 592.5,197   L 593.5,197   L 593.5,198   L 592.5,198  z    M 592.5,196   L 592.5,195   L 593.5,195   L 593.5,196   L 592.5,196  z    M 592.5,194   L 592.5,193   L 593.5,193   L 593.5,194   L 592.5,194  z    M 592.5,192   L 592.5,191   L 593.5,191   L 593.5,192   L 592.5,192  z    M 592.5,190   L 592.5,189   L 593.5,189   L 593.5,190   L 592.5,190  z    M 592.5,188   L 592.5,187   L 593.5,187   L 593.5,188   L 592.5,188  z    M 592.5,186   L 592.5,185   L 593.5,185   L 593.5,186   L 592.5,186  z    M 592.5,184   L 592.5,183   L 593.5,183   L 593.5,184   L 592.5,184  z    M 592.5,182   L 592.5,181   L 593.5,181   L 593.5,182   L 592.5,182  z    M 592.5,180   L 592.5,179   L 593.5,179   L 593.5,180   L 592.5,180  z    M 592.5,178   L 592.5,177   L 593.5,177   L 593.5,178   L 592.5,178  z    M 592.5,176   L 592.5,175   L 593.5,175   L 593.5,176   L 592.5,176  z    M 592.5,174   L 592.5,173   L 593.5,173   L 593.5,174   L 592.5,174  z    M 592.5,172   L 592.5,171   L 593.5,171   L 593.5,172   L 592.5,172  z    M 592.5,170   L 592.5,169   L 593.5,169   L 593.5,170   L 592.5,170  z    M 592.5,168   L 592.5,167   L 593.5,167   L 593.5,168   L 592.5,168  z    M 592.5,166   L 592.5,165   L 593.5,165   L 593.5,166   L 592.5,166  z    M 592.5,164   L 592.5,163   L 593.5,163   L 593.5,164   L 592.5,164  z    M 592.5,162   L 592.5,161   L 593.5,161   L 593.5,162   L 592.5,162  z    M 592.5,160   L 592.5,159   L 593.5,159   L 593.5,160   L 592.5,160  z    M 592.5,158   L 592.5,157   L 593.5,157   L 593.5,158   L 592.5,158  z    M 592.5,156   L 592.5,155   L 593.5,155   L 593.5,156   L 592.5,156  z    M 592.5,154   L 592.5,153   L 593.5,153   L 593.5,154   L 592.5,154  z    M 592.5,152   L 592.5,151   L 593.5,151   L 593.5,152   L 592.5,152  z    M 592.5,150   L 592.5,149   L 593.5,149   L 593.5,150   L 592.5,150  z    M 592.5,148   L 592.5,147   L 593.5,147   L 593.5,148   L 592.5,148  z    M 592.5,146   L 592.5,145   L 593.5,145   L 593.5,146   L 592.5,146  z    M 592.5,144   L 592.5,143   L 593.5,143   L 593.5,144   L 592.5,144  z    M 592.5,142   L 592.5,141   L 593.5,141   L 593.5,142   L 592.5,142  z    M 592.5,140   L 592.5,139   L 593.5,139   L 593.5,140   L 592.5,140  z    M 592.5,138   L 592.5,137   L 593.5,137   L 593.5,138   L 592.5,138  z    M 592.5,136   L 592.5,135   L 593.5,135   L 593.5,136   L 592.5,136  z    M 592.5,134   L 592.5,133   L 593.5,133   L 593.5,134   L 592.5,134  z    M 592.5,132   L 592.5,131   L 593.5,131   L 593.5,132   L 592.5,132  z    M 592.5,130   L 592.5,129   L 593.5,129   L 593.5,130   L 592.5,130  z    M 592.5,128   L 592.5,127   L 593.5,127   L 593.5,128   L 592.5,128  z    M 592.5,126   L 592.5,125   L 593.5,125   L 593.5,126   L 592.5,126  z    M 592.5,124   L 592.5,123   L 593.5,123   L 593.5,124   L 592.5,124  z    M 592.5,122   L 592.5,121   L 593.5,121   L 593.5,122   L 592.5,122  z    M 592.5,120   L 592.5,119   L 593.5,119   L 593.5,120   L 592.5,120  z    M 592.5,118   L 592.5,117   L 593.5,117   L 593.5,118   L 592.5,118  z    M 592.5,116   L 592.5,115   L 593.5,115   L 593.5,116   L 592.5,116  z    M 592.5,114   L 592.5,113   L 593.5,113   L 593.5,114   L 592.5,114  z    M 592.5,112   L 592.5,111   L 593.5,111   L 593.5,112   L 592.5,112  z    M 592.5,110   L 592.5,109   L 593.5,109   L 593.5,110   L 592.5,110  z    M 592.5,108   L 592.5,107   L 593.5,107   L 593.5,108   L 592.5,108  z    M 592.5,106   L 592.5,105   L 593.5,105   L 593.5,106   L 592.5,106  z    M 592.5,104   L 592.5,103   L 593.5,103   L 593.5,104   L 592.5,104  z    M 592.5,102   L 592.5,101   L 593.5,101   L 593.5,102   L 592.5,102  z    M 592.5,100   L 592.5,99   L 593.5,99   L 593.5,100   L 592.5,100  z    M 592.5,98   L 592.5,97   L 593.5,97   L 593.5,98   L 592.5,98  z    M 592.5,96   L 592.5,95   L 593.5,95   L 593.5,96   L 592.5,96  z    M 592.5,94   L 592.5,93   L 593.5,93   L 593.5,94   L 592.5,94  z    M 592.5,92   L 592.5,91   L 593.5,91   L 593.5,92   L 592.5,92  z    M 592.5,90   L 592.5,89   L 593.5,89   L 593.5,90   L 592.5,90  z    M 592.5,88   L 592.5,87   L 593.5,87   L 593.5,88   L 592.5,88  z    M 592.5,86   L 592.5,85   L 593.5,85   L 593.5,86   L 592.5,86  z    M 592.5,84   L 592.5,83   L 593.5,83   L 593.5,84   L 592.5,84  z    M 592.5,82   L 592.5,81   L 593.5,81   L 593.5,82   L 592.5,82  z    M 592.5,80   L 592.5,79   L 593.5,79   L 593.5,80   L 592.5,80  z    M 592.5,78   L 592.5,77   L 593.5,77   L 593.5,78   L 592.5,78  z    M 592.5,76   L 592.5,75   L 593.5,75   L 593.5,76   L 592.5,76  z    M 592.5,74   L 592.5,73   L 593.5,73   L 593.5,74   L 592.5,74  z    M 592.5,72   L 592.5,71   L 593.5,71   L 593.5,72   L 592.5,72  z    M 592.5,70   L 592.5,69   L 593.5,69   L 593.5,70   L 592.5,70  z    M 592.5,68   L 592.5,67   L 593.5,67   L 593.5,68   L 592.5,68  z    M 592.5,66   L 592.5,65   L 593.5,65   L 593.5,66   L 592.5,66  z    M 592.5,64   L 592.5,63   L 593.5,63   L 593.5,64   L 592.5,64  z   "
+     clip-path="url(#clipEmfPath6)"
+     style="fill:#cbcbcb;fill-rule:nonzero;fill-opacity:1;stroke:none;" />
+  <path
+     id="path266"
+     d="  M 593,432   L 593,462   L 611,462   L 611,432   L 593,432   z "
+     style="fill:#b07aa1;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path268"
+     d="  M 593,391   L 593,421   L 682,421   L 682,391   L 593,391   z "
+     style="fill:#4e79a7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path270"
+     d="  M 593,351   L 593,381   L 700,381   L 700,351   L 593,351   z "
+     style="fill:#f28e2b;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path272"
+     d="  M 593,310   L 593,340   L 736,340   L 736,310   L 593,310   z "
+     style="fill:#ff9da7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path274"
+     d="  M 593,270   L 593,300   L 736,300   L 736,270   L 593,270   z "
+     style="fill:#76b7b2;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path276"
+     d="  M 593,229   L 593,259   L 754,259   L 754,229   L 593,229   z "
+     style="fill:#e15759;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path278"
+     d="  M 593,189   L 593,219   L 969,219   L 969,189   L 593,189   z "
+     style="fill:#9c755f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path280"
+     d="  M 593,148   L 593,178   L 969,178   L 969,148   L 593,148   z "
+     style="fill:#59a14f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path282"
+     d="  M 593,108   L 593,138   L 986,138   L 986,108   L 593,108   z "
+     style="fill:#edc948;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path284"
+     d="  M 593,67   L 593,97   L 1022,97   L 1022,67   L 593,67   z "
+     style="fill:#bab0ac;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path286"
+     d="  M 593,62   L 593,467  "
+     clip-path="url(#clipEmfPath7)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path288"
+     d="  M 1045,62   L 1045,467  "
+     clip-path="url(#clipEmfPath7)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path290"
+     d="  M 141,62   L 1045,62  "
+     clip-path="url(#clipEmfPath7)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path292"
+     d="  M 141,467   L 1045,467  "
+     clip-path="url(#clipEmfPath7)"
+     style="fill:none;stroke:#cbcbcb;stroke-width:1px;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text298"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,5.000000,26.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan296"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan294"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Operational Area by Number of Customers &amp; Voltage(in Millions)</tspan></tspan></text>
+  <path
+     id="path300"
+     d="  M 1058,42   L 1058,296   L 1241,296   L 1241,42   L 1058,42   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text306"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1059.000000,62.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan304"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan302"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Operational Area</tspan></tspan></text>
+  <path
+     id="path308"
+     d="  M 1062.375,70.375   L 1062.375,84.375   L 1076.375,84.375   L 1076.375,70.375   L 1062.375,70.375   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path310"
+     d="  M 1062.375,70.375   L 1062.375,84.375   L 1076.375,84.375   L 1076.375,70.375   L 1062.375,70.375   z "
+     style="fill:#bab0ac;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text316"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1082.000000,84.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan314"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan312"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">WESTERN</tspan></tspan></text>
+  <path
+     id="path318"
+     d="  M 1062.375,93.375   L 1062.375,107.375   L 1076.375,107.375   L 1076.375,93.375   L 1062.375,93.375   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path320"
+     d="  M 1062.375,93.375   L 1062.375,107.375   L 1076.375,107.375   L 1076.375,93.375   L 1062.375,93.375   z "
+     style="fill:#edc948;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text326"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1082.000000,107.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan324"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan322"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">EASTERN</tspan></tspan></text>
+  <path
+     id="path328"
+     d="  M 1062.375,116.375   L 1062.375,130.375   L 1076.375,130.375   L 1076.375,116.375   L 1062.375,116.375   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path330"
+     d="  M 1062.375,116.375   L 1062.375,130.375   L 1076.375,130.375   L 1076.375,116.375   L 1062.375,116.375   z "
+     style="fill:#59a14f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text336"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1082.000000,130.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan334"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan332"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">CENTRAL</tspan></tspan></text>
+  <path
+     id="path338"
+     d="  M 1062.375,139.375   L 1062.375,153.375   L 1076.375,153.375   L 1076.375,139.375   L 1062.375,139.375   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path340"
+     d="  M 1062.375,139.375   L 1062.375,153.375   L 1076.375,153.375   L 1076.375,139.375   L 1062.375,139.375   z "
+     style="fill:#9c755f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text346"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1082.000000,153.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan344"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan342"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">VOLTA</tspan></tspan></text>
+  <path
+     id="path348"
+     d="  M 1062.375,162.375   L 1062.375,176.375   L 1076.375,176.375   L 1076.375,162.375   L 1062.375,162.375   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path350"
+     d="  M 1062.375,162.375   L 1062.375,176.375   L 1076.375,176.375   L 1076.375,162.375   L 1062.375,162.375   z "
+     style="fill:#e15759;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text356"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1082.000000,176.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan354"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan352"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">ASHANTI EAST</tspan></tspan></text>
+  <path
+     id="path358"
+     d="  M 1062.375,185.375   L 1062.375,199.375   L 1076.375,199.375   L 1076.375,185.375   L 1062.375,185.375   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path360"
+     d="  M 1062.375,185.375   L 1062.375,199.375   L 1076.375,199.375   L 1076.375,185.375   L 1062.375,185.375   z "
+     style="fill:#76b7b2;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text366"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1082.000000,199.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan364"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan362"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">ASHANTI WEST</tspan></tspan></text>
+  <path
+     id="path368"
+     d="  M 1062.375,208.375   L 1062.375,222.375   L 1076.375,222.375   L 1076.375,208.375   L 1062.375,208.375   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path370"
+     d="  M 1062.375,208.375   L 1062.375,222.375   L 1076.375,222.375   L 1076.375,208.375   L 1062.375,208.375   z "
+     style="fill:#ff9da7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text376"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1082.000000,222.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan374"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan372"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">TEMA</tspan></tspan></text>
+  <path
+     id="path378"
+     d="  M 1062.375,231.375   L 1062.375,245.375   L 1076.375,245.375   L 1076.375,231.375   L 1062.375,231.375   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path380"
+     d="  M 1062.375,231.375   L 1062.375,245.375   L 1076.375,245.375   L 1076.375,231.375   L 1062.375,231.375   z "
+     style="fill:#f28e2b;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text386"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1082.000000,245.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan384"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan382"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">ACCRA WEST</tspan></tspan></text>
+  <path
+     id="path388"
+     d="  M 1062.375,254.375   L 1062.375,268.375   L 1076.375,268.375   L 1076.375,254.375   L 1062.375,254.375   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path390"
+     d="  M 1062.375,254.375   L 1062.375,268.375   L 1076.375,268.375   L 1076.375,254.375   L 1062.375,254.375   z "
+     style="fill:#4e79a7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text396"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1082.000000,268.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan394"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan392"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">ACCRA EAST</tspan></tspan></text>
+  <path
+     id="path398"
+     d="  M 1062.375,277.375   L 1062.375,291.375   L 1076.375,291.375   L 1076.375,277.375   L 1062.375,277.375   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path400"
+     d="  M 1062.375,277.375   L 1062.375,291.375   L 1076.375,291.375   L 1076.375,277.375   L 1062.375,277.375   z "
+     style="fill:#b07aa1;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text406"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1082.000000,291.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan404"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan402"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Tamale</tspan></tspan></text>
+  <text
+     id="text416"
+     y="278.000000"
+     x="-1081.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1082.000000,291.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:115.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan410"
+       y="278.000000"
+       x="-1081.000000"><tspan
+         id="tspan408"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Sum of Number Of Customers and sum of Hv Voltage for each Operational Area.  Color shows details about</tspan></tspan><tspan
+       id="tspan414"
+       y="301.000000"
+       x="-1081.000000"><tspan
+         id="tspan412"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Operational Area.</tspan></tspan></text>
+</svg>

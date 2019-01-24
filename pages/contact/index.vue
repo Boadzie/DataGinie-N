@@ -40,7 +40,7 @@
           </div>
           <div class="field">
             <p class="control">
-              <button class="button is-success">Send</button>
+              <button class="button is-info is-rounded">Send</button>
             </p>
           </div>
         </form>

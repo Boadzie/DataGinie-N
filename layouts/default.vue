@@ -2,7 +2,6 @@
   <div>
     <navbar/>
     <nuxt/>
-    <hr style="border:1px solid #F9F5F4">
     <Footer/>
   </div>
 </template>
@@ -31,6 +30,6 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
-  background-color: beige;
+  background-color: #fff;
 }
 </style>

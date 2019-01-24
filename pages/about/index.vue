@@ -95,7 +95,7 @@
         </div>
         <div class="column is-narrow">
           <figure class="image is-128x128">
-            <img class="is-rounded" src="~/assets/images/profile_pic.svg">
+            <img class="is-rounded" src="~/assets/images/wonders.svg">
           </figure>
           <br>
           <br>

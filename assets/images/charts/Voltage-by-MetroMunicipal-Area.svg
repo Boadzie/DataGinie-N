@@ -1,0 +1,2904 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg1361"
+   height="323.31mm"
+   width="339.20001mm"
+   version="1.0">
+  <metadata
+     id="metadata1365">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path5"
+     d="  M 11,0   L 11,1221   L 1295,1221   L 1295,0   L 11,0   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path7"
+     d="  M 11,43   L 11,543   L 1057,543   L 1057,43   L 11,43   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path9"
+     d="  M 11,43   L 11,544   L 1057,544   L 1057,43   L 11,43   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path11"
+     d="  M 11,86   L 11,544   L 1057,544   L 1057,86   L 11,86   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path13"
+     d="  M 11,43   L 11,544   L 1057,544   L 1057,43   L 11,43   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path15"
+     d="  M 11,43   L 11,544   L 1058,544   L 1058,43   L 11,43   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path17"
+     d="  M 638,453   L 638,539   L 780,539   L 780,453   L 638,453   z "
+     style="fill:#d4a6c8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path19"
+     d="  M 638,453   L 780,453   L 780,539   L 638,539   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path21"
+     d="  M 638,367   L 638,453   L 780,453   L 780,367   L 638,367   z "
+     style="fill:#b07aa1;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path23"
+     d="  M 638,367   L 780,367   L 780,453   L 638,453   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path25"
+     d="  M 1013,437   L 1013,539   L 1053,539   L 1053,437   L 1013,437   z "
+     style="fill:#fabfd2;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path27"
+     d="  M 1013,437   L 1053,437   L 1053,539   L 1013,539   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path29"
+     d="  M 933,488   L 933,539   L 1013,539   L 1013,488   L 933,488   z "
+     style="fill:#bab0ac;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path31"
+     d="  M 933,488   L 1013,488   L 1013,539   L 933,539   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path33"
+     d="  M 933,437   L 933,488   L 1013,488   L 1013,437   L 933,437   z "
+     style="fill:#79706e;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path35"
+     d="  M 933,437   L 1013,437   L 1013,488   L 933,488   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path37"
+     d="  M 638,281   L 638,367   L 780,367   L 780,281   L 638,281   z "
+     style="fill:#e15759;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path39"
+     d="  M 638,281   L 780,281   L 780,367   L 638,367   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path41"
+     d="  M 638,195   L 638,281   L 780,281   L 780,195   L 638,195   z "
+     style="fill:#86bcb6;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path43"
+     d="  M 638,195   L 780,195   L 780,281   L 638,281   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path45"
+     d="  M 993,369   L 993,437   L 1053,437   L 1053,369   L 993,369   z "
+     style="fill:#f1ce63;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path47"
+     d="  M 993,369   L 1053,369   L 1053,437   L 993,437   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path49"
+     d="  M 970,47   L 970,195   L 1053,195   L 1053,47   L 970,47   z "
+     style="fill:#b6992d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path51"
+     d="  M 970,47   L 1053,47   L 1053,195   L 970,195   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path53"
+     d="  M 887,47   L 887,195   L 970,195   L 970,47   L 887,47   z "
+     style="fill:#8cd17d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path55"
+     d="  M 887,47   L 970,47   L 970,195   L 887,195   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path57"
+     d="  M 804,47   L 804,195   L 887,195   L 887,47   L 804,47   z "
+     style="fill:#59a14f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path59"
+     d="  M 804,47   L 887,47   L 887,195   L 804,195   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path61"
+     d="  M 721,47   L 721,195   L 804,195   L 804,47   L 721,47   z "
+     style="fill:#ffbe7d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path63"
+     d="  M 721,47   L 804,47   L 804,195   L 721,195   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path65"
+     d="  M 638,47   L 638,195   L 721,195   L 721,47   L 638,47   z "
+     style="fill:#f28e2b;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path67"
+     d="  M 638,47   L 721,47   L 721,195   L 638,195   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path69"
+     d="  M 933,369   L 933,437   L 993,437   L 993,369   L 933,369   z "
+     style="fill:#a0cbe8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path71"
+     d="  M 933,369   L 993,369   L 993,437   L 933,437   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path73"
+     d="  M 488,457   L 488,539   L 638,539   L 638,457   L 488,457   z "
+     style="fill:#4e79a7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path75"
+     d="  M 488,457   L 638,457   L 638,539   L 488,539   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path77"
+     d="  M 780,195   L 780,284   L 871,284   L 871,195   L 780,195   z "
+     style="fill:#d7b5a6;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path79"
+     d="  M 780,195   L 871,195   L 871,284   L 780,284   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path81"
+     d="  M 488,375   L 488,457   L 638,457   L 638,375   L 488,375   z "
+     style="fill:#9d7660;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path83"
+     d="  M 488,375   L 638,375   L 638,457   L 488,457   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path85"
+     d="  M 488,293   L 488,375   L 638,375   L 638,293   L 488,293   z "
+     style="fill:#d4a6c8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path87"
+     d="  M 488,293   L 638,293   L 638,375   L 488,375   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path89"
+     d="  M 488,211   L 488,293   L 638,293   L 638,211   L 488,211   z "
+     style="fill:#b07aa1;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path91"
+     d="  M 488,211   L 638,211   L 638,293   L 488,293   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path93"
+     d="  M 488,129   L 488,211   L 638,211   L 638,129   L 488,129   z "
+     style="fill:#fabfd2;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path95"
+     d="  M 488,129   L 638,129   L 638,211   L 488,211   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path97"
+     d="  M 860,482   L 860,539   L 933,539   L 933,482   L 860,482   z "
+     style="fill:#d37295;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path99"
+     d="  M 860,482   L 933,482   L 933,539   L 860,539   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path101"
+     d="  M 488,47   L 488,129   L 638,129   L 638,47   L 488,47   z "
+     style="fill:#bab0ac;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path103"
+     d="  M 488,47   L 638,47   L 638,129   L 488,129   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path105"
+     d="  M 860,426   L 860,482   L 933,482   L 933,426   L 860,426   z "
+     style="fill:#79706e;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path107"
+     d="  M 860,426   L 933,426   L 933,482   L 860,482   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path109"
+     d="  M 339,457   L 339,539   L 488,539   L 488,457   L 339,457   z "
+     style="fill:#ff9d9a;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path111"
+     d="  M 339,457   L 488,457   L 488,539   L 339,539   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path113"
+     d="  M 860,369   L 860,426   L 933,426   L 933,369   L 860,369   z "
+     style="fill:#e15759;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path115"
+     d="  M 860,369   L 933,369   L 933,426   L 860,426   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path117"
+     d="  M 1005,284   L 1005,369   L 1053,369   L 1053,284   L 1005,284   z "
+     style="fill:#86bcb6;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path119"
+     d="  M 1005,284   L 1053,284   L 1053,369   L 1005,369   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path121"
+     d="  M 339,375   L 339,457   L 488,457   L 488,375   L 339,375   z "
+     style="fill:#499894;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path123"
+     d="  M 339,375   L 488,375   L 488,457   L 339,457   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path125"
+     d="  M 339,293   L 339,375   L 488,375   L 488,293   L 339,293   z "
+     style="fill:#f1ce63;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path127"
+     d="  M 339,293   L 488,293   L 488,375   L 339,375   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path129"
+     d="  M 339,211   L 339,293   L 488,293   L 488,211   L 339,211   z "
+     style="fill:#b6992d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path131"
+     d="  M 339,211   L 488,211   L 488,293   L 339,293   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path133"
+     d="  M 339,129   L 339,211   L 488,211   L 488,129   L 339,129   z "
+     style="fill:#8cd17d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path135"
+     d="  M 339,129   L 488,129   L 488,211   L 339,211   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path137"
+     d="  M 957,284   L 957,369   L 1005,369   L 1005,284   L 957,284   z "
+     style="fill:#59a14f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path139"
+     d="  M 957,284   L 1005,284   L 1005,369   L 957,369   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path141"
+     d="  M 909,284   L 909,369   L 957,369   L 957,284   L 909,284   z "
+     style="fill:#ffbe7d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path143"
+     d="  M 909,284   L 957,284   L 957,369   L 909,369   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path145"
+     d="  M 15,375   L 15,469   L 189,469   L 189,375   L 15,375   z "
+     style="fill:#f28e2b;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path147"
+     d="  M 15,375   L 189,375   L 189,469   L 15,469   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path149"
+     d="  M 860,284   L 860,369   L 909,369   L 909,284   L 860,284   z "
+     style="fill:#a0cbe8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path151"
+     d="  M 860,284   L 909,284   L 909,369   L 860,369   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path153"
+     d="  M 15,281   L 15,375   L 189,375   L 189,281   L 15,281   z "
+     style="fill:#4e79a7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path155"
+     d="  M 15,281   L 189,281   L 189,375   L 15,375   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path157"
+     d="  M 780,488   L 780,539   L 860,539   L 860,488   L 780,488   z "
+     style="fill:#d7b5a6;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path159"
+     d="  M 780,488   L 860,488   L 860,539   L 780,539   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path161"
+     d="  M 15,188   L 15,281   L 189,281   L 189,188   L 15,188   z "
+     style="fill:#9d7660;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path163"
+     d="  M 15,188   L 189,188   L 189,281   L 15,281   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path165"
+     d="  M 780,437   L 780,488   L 860,488   L 860,437   L 780,437   z "
+     style="fill:#d4a6c8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path167"
+     d="  M 780,437   L 860,437   L 860,488   L 780,488   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path169"
+     d="  M 339,47   L 339,129   L 488,129   L 488,47   L 339,47   z "
+     style="fill:#b07aa1;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path171"
+     d="  M 339,47   L 488,47   L 488,129   L 339,129   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path173"
+     d="  M 189,457   L 189,539   L 339,539   L 339,457   L 189,457   z "
+     style="fill:#d37295;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path175"
+     d="  M 189,457   L 339,457   L 339,539   L 189,539   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path177"
+     d="  M 780,386   L 780,437   L 860,437   L 860,386   L 780,386   z "
+     style="fill:#bab0ac;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path179"
+     d="  M 780,386   L 860,386   L 860,437   L 780,437   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path181"
+     d="  M 780,335   L 780,386   L 860,386   L 860,335   L 780,335   z "
+     style="fill:#79706e;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path183"
+     d="  M 780,335   L 860,335   L 860,386   L 780,386   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path185"
+     d="  M 780,284   L 780,335   L 860,335   L 860,284   L 780,284   z "
+     style="fill:#ff9d9a;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path187"
+     d="  M 780,284   L 860,284   L 860,335   L 780,335   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path189"
+     d="  M 1008,195   L 1008,284   L 1053,284   L 1053,195   L 1008,195   z "
+     style="fill:#e15759;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path191"
+     d="  M 1008,195   L 1053,195   L 1053,284   L 1008,284   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path193"
+     d="  M 189,375   L 189,457   L 339,457   L 339,375   L 189,375   z "
+     style="fill:#86bcb6;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path195"
+     d="  M 189,375   L 339,375   L 339,457   L 189,457   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path197"
+     d="  M 962,195   L 962,284   L 1008,284   L 1008,195   L 962,195   z "
+     style="fill:#499894;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path199"
+     d="  M 962,195   L 1008,195   L 1008,284   L 962,284   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path201"
+     d="  M 189,293   L 189,375   L 339,375   L 339,293   L 189,293   z "
+     style="fill:#f1ce63;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path203"
+     d="  M 189,293   L 339,293   L 339,375   L 189,375   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path205"
+     d="  M 917,195   L 917,284   L 962,284   L 962,195   L 917,195   z "
+     style="fill:#b6992d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path207"
+     d="  M 917,195   L 962,195   L 962,284   L 917,284   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path209"
+     d="  M 871,195   L 871,284   L 917,284   L 917,195   L 871,195   z "
+     style="fill:#8cd17d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path211"
+     d="  M 871,195   L 917,195   L 917,284   L 871,284   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path213"
+     d="  M 189,211   L 189,293   L 339,293   L 339,211   L 189,211   z "
+     style="fill:#59a14f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path215"
+     d="  M 189,211   L 339,211   L 339,293   L 189,293   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path217"
+     d="  M 189,129   L 189,211   L 339,211   L 339,129   L 189,129   z "
+     style="fill:#ffbe7d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path219"
+     d="  M 189,129   L 339,129   L 339,211   L 189,211   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path221"
+     d="  M 189,47   L 189,129   L 339,129   L 339,47   L 189,47   z "
+     style="fill:#f28e2b;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path223"
+     d="  M 189,47   L 339,47   L 339,129   L 189,129   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path225"
+     d="  M 15,469   L 15,539   L 189,539   L 189,469   L 15,469   z "
+     style="fill:#a0cbe8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path227"
+     d="  M 15,469   L 189,469   L 189,539   L 15,539   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path229"
+     d="  M 15,47   L 15,188   L 189,188   L 189,47   L 15,47   z "
+     style="fill:#4e79a7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path231"
+     d="  M 15,47   L 189,47   L 189,188   L 15,188   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text245"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan235"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan233"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Wasa-Amenfi</tspan></tspan><tspan
+       id="tspan239"
+       y="20.000000"
+       x="0.000000"><tspan
+         id="tspan237"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">West</tspan></tspan><tspan
+       id="tspan243"
+       y="40.000000"
+       x="0.000000"><tspan
+         id="tspan241"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text259"
+     y="-86.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan249"
+       y="-86.000000"
+       x="0.000000"><tspan
+         id="tspan247"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Upper Manya</tspan></tspan><tspan
+       id="tspan253"
+       y="-66.000000"
+       x="0.000000"><tspan
+         id="tspan251"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Krobo</tspan></tspan><tspan
+       id="tspan257"
+       y="-46.000000"
+       x="0.000000"><tspan
+         id="tspan255"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text269"
+     y="-172.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan263"
+       y="-172.000000"
+       x="0.000000"><tspan
+         id="tspan261"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Sefwi Wiawso</tspan></tspan><tspan
+       id="tspan267"
+       y="-152.000000"
+       x="0.000000"><tspan
+         id="tspan265"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text279"
+     y="-258.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan273"
+       y="-258.000000"
+       x="0.000000"><tspan
+         id="tspan271"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Prestea</tspan></tspan><tspan
+       id="tspan277"
+       y="-238.000000"
+       x="0.000000"><tspan
+         id="tspan275"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text293"
+     y="-406.000000"
+     x="332.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan283"
+       y="-406.000000"
+       x="332.000000"><tspan
+         id="tspan281"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Nzema</tspan></tspan><tspan
+       id="tspan287"
+       y="-386.000000"
+       x="332.000000"><tspan
+         id="tspan285"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">East</tspan></tspan><tspan
+       id="tspan291"
+       y="-366.000000"
+       x="332.000000"><tspan
+         id="tspan289"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text307"
+     y="-406.000000"
+     x="249.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan297"
+       y="-406.000000"
+       x="249.000000"><tspan
+         id="tspan295"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Nkwanta</tspan></tspan><tspan
+       id="tspan301"
+       y="-386.000000"
+       x="249.000000"><tspan
+         id="tspan299"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">South</tspan></tspan><tspan
+       id="tspan305"
+       y="-366.000000"
+       x="249.000000"><tspan
+         id="tspan303"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text321"
+     y="-406.000000"
+     x="166.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan311"
+       y="-406.000000"
+       x="166.000000"><tspan
+         id="tspan309"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">New</tspan></tspan><tspan
+       id="tspan315"
+       y="-386.000000"
+       x="166.000000"><tspan
+         id="tspan313"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Juaben</tspan></tspan><tspan
+       id="tspan319"
+       y="-366.000000"
+       x="166.000000"><tspan
+         id="tspan317"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text327"
+     y="-84.000000"
+     x="295.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan325"
+       y="-84.000000"
+       x="295.000000"><tspan
+         id="tspan323"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Lower</tspan></tspan></text>
+  <text
+     id="text337"
+     y="4.000000"
+     x="-150.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan331"
+       y="4.000000"
+       x="-150.000000"><tspan
+         id="tspan329"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Lower Denkyira</tspan></tspan><tspan
+       id="tspan335"
+       y="24.000000"
+       x="-150.000000"><tspan
+         id="tspan333"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text347"
+     y="-258.000000"
+     x="142.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan341"
+       y="-258.000000"
+       x="142.000000"><tspan
+         id="tspan339"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Ledzokuku</tspan></tspan><tspan
+       id="tspan345"
+       y="-238.000000"
+       x="142.000000"><tspan
+         id="tspan343"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">22</tspan></tspan></text>
+  <text
+     id="text357"
+     y="-78.000000"
+     x="-150.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan351"
+       y="-78.000000"
+       x="-150.000000"><tspan
+         id="tspan349"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Kwahu West</tspan></tspan><tspan
+       id="tspan355"
+       y="-58.000000"
+       x="-150.000000"><tspan
+         id="tspan353"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text367"
+     y="-160.000000"
+     x="-150.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan361"
+       y="-160.000000"
+       x="-150.000000"><tspan
+         id="tspan359"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Kwahu South</tspan></tspan><tspan
+       id="tspan365"
+       y="-140.000000"
+       x="-150.000000"><tspan
+         id="tspan363"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text377"
+     y="-242.000000"
+     x="-150.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan371"
+       y="-242.000000"
+       x="-150.000000"><tspan
+         id="tspan369"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Kwahu North</tspan></tspan><tspan
+       id="tspan375"
+       y="-222.000000"
+       x="-150.000000"><tspan
+         id="tspan373"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text387"
+     y="-324.000000"
+     x="-150.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan381"
+       y="-324.000000"
+       x="-150.000000"><tspan
+         id="tspan379"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Kwaebibirem</tspan></tspan><tspan
+       id="tspan385"
+       y="-304.000000"
+       x="-150.000000"><tspan
+         id="tspan383"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text397"
+     y="29.000000"
+     x="222.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan391"
+       y="29.000000"
+       x="222.000000"><tspan
+         id="tspan389"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Kwabre</tspan></tspan><tspan
+       id="tspan395"
+       y="49.000000"
+       x="222.000000"><tspan
+         id="tspan393"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">11</tspan></tspan></text>
+  <text
+     id="text407"
+     y="-406.000000"
+     x="-150.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan401"
+       y="-406.000000"
+       x="-150.000000"><tspan
+         id="tspan399"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Krachi East</tspan></tspan><tspan
+       id="tspan405"
+       y="-386.000000"
+       x="-150.000000"><tspan
+         id="tspan403"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text417"
+     y="-27.000000"
+     x="222.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan411"
+       y="-27.000000"
+       x="222.000000"><tspan
+         id="tspan409"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Kpando</tspan></tspan><tspan
+       id="tspan415"
+       y="-7.000000"
+       x="222.000000"><tspan
+         id="tspan413"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">11</tspan></tspan></text>
+  <text
+     id="text427"
+     y="4.000000"
+     x="-299.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan421"
+       y="4.000000"
+       x="-299.000000"><tspan
+         id="tspan419"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">KMA</tspan></tspan><tspan
+       id="tspan425"
+       y="24.000000"
+       x="-299.000000"><tspan
+         id="tspan423"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text437"
+     y="-84.000000"
+     x="222.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan431"
+       y="-84.000000"
+       x="222.000000"><tspan
+         id="tspan429"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Ketu</tspan></tspan><tspan
+       id="tspan435"
+       y="-64.000000"
+       x="222.000000"><tspan
+         id="tspan433"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">South</tspan></tspan></text>
+  <text
+     id="text447"
+     y="-169.000000"
+     x="367.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan441"
+       y="-169.000000"
+       x="367.000000"><tspan
+         id="tspan439"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Keta</tspan></tspan><tspan
+       id="tspan445"
+       y="-149.000000"
+       x="367.000000"><tspan
+         id="tspan443"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">11</tspan></tspan></text>
+  <text
+     id="text457"
+     y="-78.000000"
+     x="-299.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan451"
+       y="-78.000000"
+       x="-299.000000"><tspan
+         id="tspan449"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Juabeso</tspan></tspan><tspan
+       id="tspan455"
+       y="-58.000000"
+       x="-299.000000"><tspan
+         id="tspan453"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text467"
+     y="-160.000000"
+     x="-299.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan461"
+       y="-160.000000"
+       x="-299.000000"><tspan
+         id="tspan459"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Jomoro</tspan></tspan><tspan
+       id="tspan465"
+       y="-140.000000"
+       x="-299.000000"><tspan
+         id="tspan463"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text477"
+     y="-242.000000"
+     x="-299.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan471"
+       y="-242.000000"
+       x="-299.000000"><tspan
+         id="tspan469"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Jasikan</tspan></tspan><tspan
+       id="tspan475"
+       y="-222.000000"
+       x="-299.000000"><tspan
+         id="tspan473"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text487"
+     y="-324.000000"
+     x="-299.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan481"
+       y="-324.000000"
+       x="-299.000000"><tspan
+         id="tspan479"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Hohoe</tspan></tspan><tspan
+       id="tspan485"
+       y="-304.000000"
+       x="-299.000000"><tspan
+         id="tspan483"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text497"
+     y="-169.000000"
+     x="319.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan491"
+       y="-169.000000"
+       x="319.000000"><tspan
+         id="tspan489"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Ho</tspan></tspan><tspan
+       id="tspan495"
+       y="-149.000000"
+       x="319.000000"><tspan
+         id="tspan493"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">11</tspan></tspan></text>
+  <text
+     id="text503"
+     y="-169.000000"
+     x="271.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan501"
+       y="-169.000000"
+       x="271.000000"><tspan
+         id="tspan499"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Ga</tspan></tspan></text>
+  <text
+     id="text513"
+     y="-78.000000"
+     x="-623.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan507"
+       y="-78.000000"
+       x="-623.000000"><tspan
+         id="tspan505"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Ga East</tspan></tspan><tspan
+       id="tspan511"
+       y="-58.000000"
+       x="-623.000000"><tspan
+         id="tspan509"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">44</tspan></tspan></text>
+  <text
+     id="text523"
+     y="-172.000000"
+     x="-623.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan517"
+       y="-172.000000"
+       x="-623.000000"><tspan
+         id="tspan515"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Effutu</tspan></tspan><tspan
+       id="tspan521"
+       y="-152.000000"
+       x="-623.000000"><tspan
+         id="tspan519"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">44</tspan></tspan></text>
+  <text
+     id="text533"
+     y="-265.000000"
+     x="-623.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan527"
+       y="-265.000000"
+       x="-623.000000"><tspan
+         id="tspan525"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Dangbe East</tspan></tspan><tspan
+       id="tspan531"
+       y="-245.000000"
+       x="-623.000000"><tspan
+         id="tspan529"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">44</tspan></tspan></text>
+  <text
+     id="text539"
+     y="-16.000000"
+     x="142.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan537"
+       y="-16.000000"
+       x="142.000000"><tspan
+         id="tspan535"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">CCMA</tspan></tspan></text>
+  <text
+     id="text549"
+     y="-406.000000"
+     x="-299.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan543"
+       y="-406.000000"
+       x="-299.000000"><tspan
+         id="tspan541"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Birim North</tspan></tspan><tspan
+       id="tspan547"
+       y="-386.000000"
+       x="-299.000000"><tspan
+         id="tspan545"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text559"
+     y="4.000000"
+     x="-449.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan553"
+       y="4.000000"
+       x="-449.000000"><tspan
+         id="tspan551"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Bibiani</tspan></tspan><tspan
+       id="tspan557"
+       y="24.000000"
+       x="-449.000000"><tspan
+         id="tspan555"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text569"
+     y="-78.000000"
+     x="-449.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan563"
+       y="-78.000000"
+       x="-449.000000"><tspan
+         id="tspan561"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Asikuma</tspan></tspan><tspan
+       id="tspan567"
+       y="-58.000000"
+       x="-449.000000"><tspan
+         id="tspan565"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text579"
+     y="-160.000000"
+     x="-449.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan573"
+       y="-160.000000"
+       x="-449.000000"><tspan
+         id="tspan571"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Aowin-Suaman</tspan></tspan><tspan
+       id="tspan577"
+       y="-140.000000"
+       x="-449.000000"><tspan
+         id="tspan575"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text589"
+     y="-242.000000"
+     x="-449.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan583"
+       y="-242.000000"
+       x="-449.000000"><tspan
+         id="tspan581"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Akatsi South</tspan></tspan><tspan
+       id="tspan587"
+       y="-222.000000"
+       x="-449.000000"><tspan
+         id="tspan585"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text599"
+     y="-324.000000"
+     x="-449.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan593"
+       y="-324.000000"
+       x="-449.000000"><tspan
+         id="tspan591"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Ajumako</tspan></tspan><tspan
+       id="tspan597"
+       y="-304.000000"
+       x="-449.000000"><tspan
+         id="tspan595"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text609"
+     y="-406.000000"
+     x="-449.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan603"
+       y="-406.000000"
+       x="-449.000000"><tspan
+         id="tspan601"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Agona West</tspan></tspan><tspan
+       id="tspan607"
+       y="-386.000000"
+       x="-449.000000"><tspan
+         id="tspan605"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text619"
+     y="16.000000"
+     x="-623.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan613"
+       y="16.000000"
+       x="-623.000000"><tspan
+         id="tspan611"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Adansi South</tspan></tspan><tspan
+       id="tspan617"
+       y="36.000000"
+       x="-623.000000"><tspan
+         id="tspan615"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">33</tspan></tspan></text>
+  <text
+     id="text633"
+     y="-406.000000"
+     x="-623.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:133.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan623"
+       y="-406.000000"
+       x="-623.000000"><tspan
+         id="tspan621"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Accra Metropolitan</tspan></tspan><tspan
+       id="tspan627"
+       y="-386.000000"
+       x="-623.000000"><tspan
+         id="tspan625"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Assembly</tspan></tspan><tspan
+       id="tspan631"
+       y="-366.000000"
+       x="-623.000000"><tspan
+         id="tspan629"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">66</tspan></tspan></text>
+  <text
+     id="text639"
+     y="-450.000000"
+     x="-631.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan637"
+       y="-450.000000"
+       x="-631.000000"><tspan
+         id="tspan635"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Voltage(in Millions) by Metropolitan/Municipal Are</tspan></tspan></text>
+  <text
+     id="text645"
+     y="-450.000000"
+     x="-174.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,646.000000,477.000000)"
+     style="font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan643"
+       y="-450.000000"
+       x="-174.000000"><tspan
+         id="tspan641"
+         style="fill:#000000;font-size:20.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">a</tspan></tspan></text>
+  <path
+     id="path647"
+     d="  M 1067,43   L 1067,1221   L 1295,1221   L 1295,43   L 1067,43   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text653"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1068.000000,59.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan651"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan649"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Metro/Municipal/District</tspan></tspan></text>
+  <path
+     id="path655"
+     d="  M 1071,65   L 1071,77   L 1083,77   L 1083,65   L 1071,65   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path657"
+     d="  M 1071,65   L 1071,77   L 1083,77   L 1083,65   L 1071,65   z "
+     style="fill:#4e79a7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path659"
+     d="  M 1071,65   L 1083,65   L 1083,77   L 1071,77   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text665"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,77.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan663"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan661"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Accra Metropolitan Assembly</tspan></tspan></text>
+  <path
+     id="path667"
+     d="  M 1071,85   L 1071,97   L 1083,97   L 1083,85   L 1071,85   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path669"
+     d="  M 1071,85   L 1071,97   L 1083,97   L 1083,85   L 1071,85   z "
+     style="fill:#a0cbe8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path671"
+     d="  M 1071,85   L 1083,85   L 1083,97   L 1071,97   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text677"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,97.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan675"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan673"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Adansi South</tspan></tspan></text>
+  <path
+     id="path679"
+     d="  M 1071,105   L 1071,117   L 1083,117   L 1083,105   L 1071,105   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path681"
+     d="  M 1071,105   L 1071,117   L 1083,117   L 1083,105   L 1071,105   z "
+     style="fill:#f28e2b;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path683"
+     d="  M 1071,105   L 1083,105   L 1083,117   L 1071,117   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text689"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,117.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan687"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan685"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Agona West</tspan></tspan></text>
+  <path
+     id="path691"
+     d="  M 1071,125   L 1071,137   L 1083,137   L 1083,125   L 1071,125   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path693"
+     d="  M 1071,125   L 1071,137   L 1083,137   L 1083,125   L 1071,125   z "
+     style="fill:#ffbe7d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path695"
+     d="  M 1071,125   L 1083,125   L 1083,137   L 1071,137   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text701"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,137.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan699"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan697"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Ajumako</tspan></tspan></text>
+  <path
+     id="path703"
+     d="  M 1071,145   L 1071,157   L 1083,157   L 1083,145   L 1071,145   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path705"
+     d="  M 1071,145   L 1071,157   L 1083,157   L 1083,145   L 1071,145   z "
+     style="fill:#59a14f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path707"
+     d="  M 1071,145   L 1083,145   L 1083,157   L 1071,157   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text713"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,157.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan711"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan709"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Akatsi South</tspan></tspan></text>
+  <path
+     id="path715"
+     d="  M 1071,165   L 1071,177   L 1083,177   L 1083,165   L 1071,165   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path717"
+     d="  M 1071,165   L 1071,177   L 1083,177   L 1083,165   L 1071,165   z "
+     style="fill:#8cd17d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path719"
+     d="  M 1071,165   L 1083,165   L 1083,177   L 1071,177   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text725"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,177.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan723"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan721"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Akwapim North</tspan></tspan></text>
+  <path
+     id="path727"
+     d="  M 1071,185   L 1071,197   L 1083,197   L 1083,185   L 1071,185   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path729"
+     d="  M 1071,185   L 1071,197   L 1083,197   L 1083,185   L 1071,185   z "
+     style="fill:#b6992d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path731"
+     d="  M 1071,185   L 1083,185   L 1083,197   L 1071,197   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text737"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,197.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan735"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan733"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Akwapim South</tspan></tspan></text>
+  <path
+     id="path739"
+     d="  M 1071,205   L 1071,217   L 1083,217   L 1083,205   L 1071,205   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path741"
+     d="  M 1071,205   L 1071,217   L 1083,217   L 1083,205   L 1071,205   z "
+     style="fill:#f1ce63;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path743"
+     d="  M 1071,205   L 1083,205   L 1083,217   L 1071,217   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text749"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,217.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan747"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan745"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Aowin-Suaman</tspan></tspan></text>
+  <path
+     id="path751"
+     d="  M 1071,225   L 1071,237   L 1083,237   L 1083,225   L 1071,225   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path753"
+     d="  M 1071,225   L 1071,237   L 1083,237   L 1083,225   L 1071,225   z "
+     style="fill:#499894;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path755"
+     d="  M 1071,225   L 1083,225   L 1083,237   L 1071,237   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text761"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,237.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan759"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan757"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Asante Akim South</tspan></tspan></text>
+  <path
+     id="path763"
+     d="  M 1071,245   L 1071,257   L 1083,257   L 1083,245   L 1071,245   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path765"
+     d="  M 1071,245   L 1071,257   L 1083,257   L 1083,245   L 1071,245   z "
+     style="fill:#86bcb6;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path767"
+     d="  M 1071,245   L 1083,245   L 1083,257   L 1071,257   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text773"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,257.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan771"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan769"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Asikuma</tspan></tspan></text>
+  <path
+     id="path775"
+     d="  M 1071,265   L 1071,277   L 1083,277   L 1083,265   L 1071,265   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path777"
+     d="  M 1071,265   L 1071,277   L 1083,277   L 1083,265   L 1071,265   z "
+     style="fill:#e15759;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path779"
+     d="  M 1071,265   L 1083,265   L 1083,277   L 1071,277   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text785"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,277.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan783"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan781"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Asokore Mampong</tspan></tspan></text>
+  <path
+     id="path787"
+     d="  M 1071,285   L 1071,297   L 1083,297   L 1083,285   L 1071,285   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path789"
+     d="  M 1071,285   L 1071,297   L 1083,297   L 1083,285   L 1071,285   z "
+     style="fill:#ff9d9a;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path791"
+     d="  M 1071,285   L 1083,285   L 1083,297   L 1071,297   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text797"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,297.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan795"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan793"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Assin North</tspan></tspan></text>
+  <path
+     id="path799"
+     d="  M 1071,305   L 1071,317   L 1083,317   L 1083,305   L 1071,305   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path801"
+     d="  M 1071,305   L 1071,317   L 1083,317   L 1083,305   L 1071,305   z "
+     style="fill:#79706e;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path803"
+     d="  M 1071,305   L 1083,305   L 1083,317   L 1071,317   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text809"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,317.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan807"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan805"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Atwima Nwabiagya</tspan></tspan></text>
+  <path
+     id="path811"
+     d="  M 1071,325   L 1071,337   L 1083,337   L 1083,325   L 1071,325   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path813"
+     d="  M 1071,325   L 1071,337   L 1083,337   L 1083,325   L 1071,325   z "
+     style="fill:#bab0ac;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path815"
+     d="  M 1071,325   L 1083,325   L 1083,337   L 1071,337   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text821"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,337.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan819"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan817"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Bekwai Municipal</tspan></tspan></text>
+  <path
+     id="path823"
+     d="  M 1071,345   L 1071,357   L 1083,357   L 1083,345   L 1071,345   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path825"
+     d="  M 1071,345   L 1071,357   L 1083,357   L 1083,345   L 1071,345   z "
+     style="fill:#d37295;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path827"
+     d="  M 1071,345   L 1083,345   L 1083,357   L 1071,357   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text833"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,357.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan831"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan829"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Bibiani</tspan></tspan></text>
+  <path
+     id="path835"
+     d="  M 1071,365   L 1071,377   L 1083,377   L 1083,365   L 1071,365   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path837"
+     d="  M 1071,365   L 1071,377   L 1083,377   L 1083,365   L 1071,365   z "
+     style="fill:#fabfd2;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path839"
+     d="  M 1071,365   L 1083,365   L 1083,377   L 1071,377   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text845"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,377.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan843"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan841"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Birim Central</tspan></tspan></text>
+  <path
+     id="path847"
+     d="  M 1071,385   L 1071,397   L 1083,397   L 1083,385   L 1071,385   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path849"
+     d="  M 1071,385   L 1071,397   L 1083,397   L 1083,385   L 1071,385   z "
+     style="fill:#b07aa1;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path851"
+     d="  M 1071,385   L 1083,385   L 1083,397   L 1071,397   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text857"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,397.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan855"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan853"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Birim North</tspan></tspan></text>
+  <path
+     id="path859"
+     d="  M 1071,405   L 1071,417   L 1083,417   L 1083,405   L 1071,405   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path861"
+     d="  M 1071,405   L 1071,417   L 1083,417   L 1083,405   L 1071,405   z "
+     style="fill:#d4a6c8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path863"
+     d="  M 1071,405   L 1083,405   L 1083,417   L 1071,417   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text869"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,417.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan867"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan865"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">CCMA</tspan></tspan></text>
+  <path
+     id="path871"
+     d="  M 1071,425   L 1071,437   L 1083,437   L 1083,425   L 1071,425   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path873"
+     d="  M 1071,425   L 1071,437   L 1083,437   L 1083,425   L 1071,425   z "
+     style="fill:#9d7660;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path875"
+     d="  M 1071,425   L 1083,425   L 1083,437   L 1071,437   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text881"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,437.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan879"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan877"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Dangbe East</tspan></tspan></text>
+  <path
+     id="path883"
+     d="  M 1071,445   L 1071,457   L 1083,457   L 1083,445   L 1071,445   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path885"
+     d="  M 1071,445   L 1071,457   L 1083,457   L 1083,445   L 1071,445   z "
+     style="fill:#d7b5a6;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path887"
+     d="  M 1071,445   L 1083,445   L 1083,457   L 1071,457   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text893"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,457.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan891"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan889"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">East Akim</tspan></tspan></text>
+  <path
+     id="path895"
+     d="  M 1071,465   L 1071,477   L 1083,477   L 1083,465   L 1071,465   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path897"
+     d="  M 1071,465   L 1071,477   L 1083,477   L 1083,465   L 1071,465   z "
+     style="fill:#4e79a7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path899"
+     d="  M 1071,465   L 1083,465   L 1083,477   L 1071,477   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text905"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,477.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan903"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan901"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Effutu</tspan></tspan></text>
+  <path
+     id="path907"
+     d="  M 1071,485   L 1071,497   L 1083,497   L 1083,485   L 1071,485   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path909"
+     d="  M 1071,485   L 1071,497   L 1083,497   L 1083,485   L 1071,485   z "
+     style="fill:#a0cbe8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path911"
+     d="  M 1071,485   L 1083,485   L 1083,497   L 1071,497   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text917"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,497.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan915"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan913"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Ejisu Juaben</tspan></tspan></text>
+  <path
+     id="path919"
+     d="  M 1071,505   L 1071,517   L 1083,517   L 1083,505   L 1071,505   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path921"
+     d="  M 1071,505   L 1071,517   L 1083,517   L 1083,505   L 1071,505   z "
+     style="fill:#f28e2b;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path923"
+     d="  M 1071,505   L 1083,505   L 1083,517   L 1071,517   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text929"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,517.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan927"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan925"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Ga East</tspan></tspan></text>
+  <path
+     id="path931"
+     d="  M 1071,525   L 1071,537   L 1083,537   L 1083,525   L 1071,525   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path933"
+     d="  M 1071,525   L 1071,537   L 1083,537   L 1083,525   L 1071,525   z "
+     style="fill:#ffbe7d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path935"
+     d="  M 1071,525   L 1083,525   L 1083,537   L 1071,537   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text941"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,537.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan939"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan937"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Ga South</tspan></tspan></text>
+  <path
+     id="path943"
+     d="  M 1071,545   L 1071,557   L 1083,557   L 1083,545   L 1071,545   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path945"
+     d="  M 1071,545   L 1071,557   L 1083,557   L 1083,545   L 1071,545   z "
+     style="fill:#59a14f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path947"
+     d="  M 1071,545   L 1083,545   L 1083,557   L 1071,557   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text953"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,557.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan951"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan949"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Ho</tspan></tspan></text>
+  <path
+     id="path955"
+     d="  M 1071,565   L 1071,577   L 1083,577   L 1083,565   L 1071,565   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path957"
+     d="  M 1071,565   L 1071,577   L 1083,577   L 1083,565   L 1071,565   z "
+     style="fill:#8cd17d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path959"
+     d="  M 1071,565   L 1083,565   L 1083,577   L 1071,577   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text965"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,577.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan963"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan961"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Hohoe</tspan></tspan></text>
+  <path
+     id="path967"
+     d="  M 1071,585   L 1071,597   L 1083,597   L 1083,585   L 1071,585   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path969"
+     d="  M 1071,585   L 1071,597   L 1083,597   L 1083,585   L 1071,585   z "
+     style="fill:#b6992d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path971"
+     d="  M 1071,585   L 1083,585   L 1083,597   L 1071,597   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text977"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,597.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan975"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan973"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Jasikan</tspan></tspan></text>
+  <path
+     id="path979"
+     d="  M 1071,605   L 1071,617   L 1083,617   L 1083,605   L 1071,605   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path981"
+     d="  M 1071,605   L 1071,617   L 1083,617   L 1083,605   L 1071,605   z "
+     style="fill:#f1ce63;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path983"
+     d="  M 1071,605   L 1083,605   L 1083,617   L 1071,617   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text989"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,617.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan987"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan985"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Jomoro</tspan></tspan></text>
+  <path
+     id="path991"
+     d="  M 1071,625   L 1071,637   L 1083,637   L 1083,625   L 1071,625   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path993"
+     d="  M 1071,625   L 1071,637   L 1083,637   L 1083,625   L 1071,625   z "
+     style="fill:#499894;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path995"
+     d="  M 1071,625   L 1083,625   L 1083,637   L 1071,637   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1001"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,637.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan999"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan997"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Juabeso</tspan></tspan></text>
+  <path
+     id="path1003"
+     d="  M 1071,645   L 1071,657   L 1083,657   L 1083,645   L 1071,645   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1005"
+     d="  M 1071,645   L 1071,657   L 1083,657   L 1083,645   L 1071,645   z "
+     style="fill:#86bcb6;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1007"
+     d="  M 1071,645   L 1083,645   L 1083,657   L 1071,657   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1013"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,657.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1011"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1009"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Keta</tspan></tspan></text>
+  <path
+     id="path1015"
+     d="  M 1071,665   L 1071,677   L 1083,677   L 1083,665   L 1071,665   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1017"
+     d="  M 1071,665   L 1071,677   L 1083,677   L 1083,665   L 1071,665   z "
+     style="fill:#e15759;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1019"
+     d="  M 1071,665   L 1083,665   L 1083,677   L 1071,677   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1025"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,677.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1023"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1021"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Ketu South</tspan></tspan></text>
+  <path
+     id="path1027"
+     d="  M 1071,685   L 1071,697   L 1083,697   L 1083,685   L 1071,685   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1029"
+     d="  M 1071,685   L 1071,697   L 1083,697   L 1083,685   L 1071,685   z "
+     style="fill:#ff9d9a;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1031"
+     d="  M 1071,685   L 1083,685   L 1083,697   L 1071,697   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1037"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,697.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1035"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1033"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">KMA</tspan></tspan></text>
+  <path
+     id="path1039"
+     d="  M 1071,705   L 1071,717   L 1083,717   L 1083,705   L 1071,705   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1041"
+     d="  M 1071,705   L 1071,717   L 1083,717   L 1083,705   L 1071,705   z "
+     style="fill:#79706e;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1043"
+     d="  M 1071,705   L 1083,705   L 1083,717   L 1071,717   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1049"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,717.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1047"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1045"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Kpando</tspan></tspan></text>
+  <path
+     id="path1051"
+     d="  M 1071,725   L 1071,737   L 1083,737   L 1083,725   L 1071,725   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1053"
+     d="  M 1071,725   L 1071,737   L 1083,737   L 1083,725   L 1071,725   z "
+     style="fill:#bab0ac;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1055"
+     d="  M 1071,725   L 1083,725   L 1083,737   L 1071,737   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1061"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,737.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1059"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1057"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Krachi East</tspan></tspan></text>
+  <path
+     id="path1063"
+     d="  M 1071,745   L 1071,757   L 1083,757   L 1083,745   L 1071,745   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1065"
+     d="  M 1071,745   L 1071,757   L 1083,757   L 1083,745   L 1071,745   z "
+     style="fill:#d37295;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1067"
+     d="  M 1071,745   L 1083,745   L 1083,757   L 1071,757   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1073"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,757.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1071"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1069"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Kwabre</tspan></tspan></text>
+  <path
+     id="path1075"
+     d="  M 1071,765   L 1071,777   L 1083,777   L 1083,765   L 1071,765   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1077"
+     d="  M 1071,765   L 1071,777   L 1083,777   L 1083,765   L 1071,765   z "
+     style="fill:#fabfd2;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1079"
+     d="  M 1071,765   L 1083,765   L 1083,777   L 1071,777   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1085"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,777.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1083"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1081"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Kwaebibirem</tspan></tspan></text>
+  <path
+     id="path1087"
+     d="  M 1071,785   L 1071,797   L 1083,797   L 1083,785   L 1071,785   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1089"
+     d="  M 1071,785   L 1071,797   L 1083,797   L 1083,785   L 1071,785   z "
+     style="fill:#b07aa1;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1091"
+     d="  M 1071,785   L 1083,785   L 1083,797   L 1071,797   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1097"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,797.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1095"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1093"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Kwahu North</tspan></tspan></text>
+  <path
+     id="path1099"
+     d="  M 1071,805   L 1071,817   L 1083,817   L 1083,805   L 1071,805   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1101"
+     d="  M 1071,805   L 1071,817   L 1083,817   L 1083,805   L 1071,805   z "
+     style="fill:#d4a6c8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1103"
+     d="  M 1071,805   L 1083,805   L 1083,817   L 1071,817   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1109"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,817.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1107"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1105"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Kwahu South</tspan></tspan></text>
+  <path
+     id="path1111"
+     d="  M 1071,825   L 1071,837   L 1083,837   L 1083,825   L 1071,825   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1113"
+     d="  M 1071,825   L 1071,837   L 1083,837   L 1083,825   L 1071,825   z "
+     style="fill:#9d7660;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1115"
+     d="  M 1071,825   L 1083,825   L 1083,837   L 1071,837   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1121"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,837.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1119"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1117"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Kwahu West</tspan></tspan></text>
+  <path
+     id="path1123"
+     d="  M 1071,845   L 1071,857   L 1083,857   L 1083,845   L 1071,845   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1125"
+     d="  M 1071,845   L 1071,857   L 1083,857   L 1083,845   L 1071,845   z "
+     style="fill:#d7b5a6;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1127"
+     d="  M 1071,845   L 1083,845   L 1083,857   L 1071,857   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1133"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,857.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1131"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1129"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Ledzokuku</tspan></tspan></text>
+  <path
+     id="path1135"
+     d="  M 1071,865   L 1071,877   L 1083,877   L 1083,865   L 1071,865   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1137"
+     d="  M 1071,865   L 1071,877   L 1083,877   L 1083,865   L 1071,865   z "
+     style="fill:#4e79a7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1139"
+     d="  M 1071,865   L 1083,865   L 1083,877   L 1071,877   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1145"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,877.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1143"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1141"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Lower Denkyira</tspan></tspan></text>
+  <path
+     id="path1147"
+     d="  M 1071,885   L 1071,897   L 1083,897   L 1083,885   L 1071,885   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1149"
+     d="  M 1071,885   L 1071,897   L 1083,897   L 1083,885   L 1071,885   z "
+     style="fill:#a0cbe8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1151"
+     d="  M 1071,885   L 1083,885   L 1083,897   L 1071,897   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1157"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,897.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1155"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1153"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Lower Manya Krobo</tspan></tspan></text>
+  <path
+     id="path1159"
+     d="  M 1071,905   L 1071,917   L 1083,917   L 1083,905   L 1071,905   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1161"
+     d="  M 1071,905   L 1071,917   L 1083,917   L 1083,905   L 1071,905   z "
+     style="fill:#f28e2b;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1163"
+     d="  M 1071,905   L 1083,905   L 1083,917   L 1071,917   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1169"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,917.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1167"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1165"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Mampong Municipal</tspan></tspan></text>
+  <path
+     id="path1171"
+     d="  M 1071,925   L 1071,937   L 1083,937   L 1083,925   L 1071,925   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1173"
+     d="  M 1071,925   L 1071,937   L 1083,937   L 1083,925   L 1071,925   z "
+     style="fill:#ffbe7d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1175"
+     d="  M 1071,925   L 1083,925   L 1083,937   L 1071,937   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1181"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,937.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1179"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1177"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Mfantsiman</tspan></tspan></text>
+  <path
+     id="path1183"
+     d="  M 1071,945   L 1071,957   L 1083,957   L 1083,945   L 1071,945   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1185"
+     d="  M 1071,945   L 1071,957   L 1083,957   L 1083,945   L 1071,945   z "
+     style="fill:#59a14f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1187"
+     d="  M 1071,945   L 1083,945   L 1083,957   L 1071,957   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1193"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,957.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1191"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1189"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">New Juaben</tspan></tspan></text>
+  <path
+     id="path1195"
+     d="  M 1071,965   L 1071,977   L 1083,977   L 1083,965   L 1071,965   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1197"
+     d="  M 1071,965   L 1071,977   L 1083,977   L 1083,965   L 1071,965   z "
+     style="fill:#8cd17d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1199"
+     d="  M 1071,965   L 1083,965   L 1083,977   L 1071,977   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1205"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,977.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1203"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1201"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Nkwanta South</tspan></tspan></text>
+  <path
+     id="path1207"
+     d="  M 1071,985   L 1071,997   L 1083,997   L 1083,985   L 1071,985   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1209"
+     d="  M 1071,985   L 1071,997   L 1083,997   L 1083,985   L 1071,985   z "
+     style="fill:#b6992d;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1211"
+     d="  M 1071,985   L 1083,985   L 1083,997   L 1071,997   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1217"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,997.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1215"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1213"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Nzema East</tspan></tspan></text>
+  <path
+     id="path1219"
+     d="  M 1071,1005   L 1071,1017   L 1083,1017   L 1083,1005   L 1071,1005   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1221"
+     d="  M 1071,1005   L 1071,1017   L 1083,1017   L 1083,1005   L 1071,1005   z "
+     style="fill:#f1ce63;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1223"
+     d="  M 1071,1005   L 1083,1005   L 1083,1017   L 1071,1017   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1229"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,1017.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1227"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1225"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Obuasi Municipal</tspan></tspan></text>
+  <path
+     id="path1231"
+     d="  M 1071,1025   L 1071,1037   L 1083,1037   L 1083,1025   L 1071,1025   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1233"
+     d="  M 1071,1025   L 1071,1037   L 1083,1037   L 1083,1025   L 1071,1025   z "
+     style="fill:#499894;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1235"
+     d="  M 1071,1025   L 1083,1025   L 1083,1037   L 1071,1037   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1241"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,1037.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1239"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1237"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Offinso South</tspan></tspan></text>
+  <path
+     id="path1243"
+     d="  M 1071,1045   L 1071,1057   L 1083,1057   L 1083,1045   L 1071,1045   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1245"
+     d="  M 1071,1045   L 1071,1057   L 1083,1057   L 1083,1045   L 1071,1045   z "
+     style="fill:#86bcb6;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1247"
+     d="  M 1071,1045   L 1083,1045   L 1083,1057   L 1071,1057   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1253"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,1057.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1251"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1249"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Prestea</tspan></tspan></text>
+  <path
+     id="path1255"
+     d="  M 1071,1065   L 1071,1077   L 1083,1077   L 1083,1065   L 1071,1065   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1257"
+     d="  M 1071,1065   L 1071,1077   L 1083,1077   L 1083,1065   L 1071,1065   z "
+     style="fill:#e15759;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1259"
+     d="  M 1071,1065   L 1083,1065   L 1083,1077   L 1071,1077   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1265"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,1077.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1263"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1261"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Sefwi Wiawso</tspan></tspan></text>
+  <path
+     id="path1267"
+     d="  M 1071,1085   L 1071,1097   L 1083,1097   L 1083,1085   L 1071,1085   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1269"
+     d="  M 1071,1085   L 1071,1097   L 1083,1097   L 1083,1085   L 1071,1085   z "
+     style="fill:#ff9d9a;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1271"
+     d="  M 1071,1085   L 1083,1085   L 1083,1097   L 1071,1097   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1277"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,1097.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1275"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1273"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Sekondi-Takoradi</tspan></tspan></text>
+  <path
+     id="path1279"
+     d="  M 1071,1105   L 1071,1117   L 1083,1117   L 1083,1105   L 1071,1105   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1281"
+     d="  M 1071,1105   L 1071,1117   L 1083,1117   L 1083,1105   L 1071,1105   z "
+     style="fill:#79706e;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1283"
+     d="  M 1071,1105   L 1083,1105   L 1083,1117   L 1071,1117   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1289"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,1117.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1287"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1285"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">South Dayi</tspan></tspan></text>
+  <path
+     id="path1291"
+     d="  M 1071,1125   L 1071,1137   L 1083,1137   L 1083,1125   L 1071,1125   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1293"
+     d="  M 1071,1125   L 1071,1137   L 1083,1137   L 1083,1125   L 1071,1125   z "
+     style="fill:#bab0ac;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1295"
+     d="  M 1071,1125   L 1083,1125   L 1083,1137   L 1071,1137   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1301"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,1137.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1299"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1297"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">South Tongu</tspan></tspan></text>
+  <path
+     id="path1303"
+     d="  M 1071,1145   L 1071,1157   L 1083,1157   L 1083,1145   L 1071,1145   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1305"
+     d="  M 1071,1145   L 1071,1157   L 1083,1157   L 1083,1145   L 1071,1145   z "
+     style="fill:#d37295;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1307"
+     d="  M 1071,1145   L 1083,1145   L 1083,1157   L 1071,1157   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1313"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,1157.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1311"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1309"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Tarkwa</tspan></tspan></text>
+  <path
+     id="path1315"
+     d="  M 1071,1165   L 1071,1177   L 1083,1177   L 1083,1165   L 1071,1165   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1317"
+     d="  M 1071,1165   L 1071,1177   L 1083,1177   L 1083,1165   L 1071,1165   z "
+     style="fill:#fabfd2;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1319"
+     d="  M 1071,1165   L 1083,1165   L 1083,1177   L 1071,1177   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1325"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,1177.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1323"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1321"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Upper Denkyira East</tspan></tspan></text>
+  <path
+     id="path1327"
+     d="  M 1071,1185   L 1071,1197   L 1083,1197   L 1083,1185   L 1071,1185   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1329"
+     d="  M 1071,1185   L 1071,1197   L 1083,1197   L 1083,1185   L 1071,1185   z "
+     style="fill:#b07aa1;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1331"
+     d="  M 1071,1185   L 1083,1185   L 1083,1197   L 1071,1197   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1337"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,1197.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1335"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1333"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Upper Manya Krobo</tspan></tspan></text>
+  <path
+     id="path1339"
+     d="  M 1071,1205   L 1071,1217   L 1083,1217   L 1083,1205   L 1071,1205   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1341"
+     d="  M 1071,1205   L 1071,1217   L 1083,1217   L 1083,1205   L 1071,1205   z "
+     style="fill:#d4a6c8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path1343"
+     d="  M 1071,1205   L 1083,1205   L 1083,1217   L 1071,1217   z "
+     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text1349"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,1217.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1347"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan1345"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Wasa-Amenfi West</tspan></tspan></text>
+  <text
+     id="text1359"
+     y="-652.000000"
+     x="-1078.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1089.000000,1217.000000)"
+     style="font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:113.333333%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan1353"
+       y="-652.000000"
+       x="-1078.000000"><tspan
+         id="tspan1351"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Metro/Municipal/District and sum of Hv Voltage.  Color shows details about Metro/Municipal/District.  Size shows sum of Hv Voltage.  The marks are</tspan></tspan><tspan
+       id="tspan1357"
+       y="-635.000000"
+       x="-1078.000000"><tspan
+         id="tspan1355"
+         style="fill:#000000;font-size:15.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">labeled by Metro/Municipal/District and sum of Hv Voltage.</tspan></tspan></text>
+</svg>

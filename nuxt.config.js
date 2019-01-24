@@ -1,7 +1,7 @@
-const pkg = require('./package')
+const pkg = require("./package");
 
 module.exports = {
-  mode: 'universal',
+  mode: "universal",
 
   /*
    ** Headers of the page
@@ -9,44 +9,47 @@ module.exports = {
   head: {
     title: pkg.name,
     meta: [{
-        charset: 'utf-8'
+        charset: "utf-8"
       },
       {
-        name: 'viewport',
-        content: 'width=device-width, initial-scale=1'
+        name: "viewport",
+        content: "width=device-width, initial-scale=1"
       },
       {
-        hid: 'description',
-        name: 'description',
+        hid: "description",
+        name: "description",
         content: pkg.description
-      }
+      },
+      {
+        httpequiv: 'X-Frame-Options',
+        content: 'allow'
+      },
     ],
     script: [{
-      src: 'https://use.fontawesome.com/releases/v5.3.1/js/all.js'
+      src: "https://use.fontawesome.com/releases/v5.3.1/js/all.js"
     }],
     link: [{
-      rel: 'icon',
-      type: 'image/x-icon',
-      href: '/favicon.ico'
+      rel: "icon",
+      type: "image/x-icon",
+      href: "/favicon.ico"
     }],
     link: [{
-      rel: 'stylesheet',
-      href: 'https://fonts.googleapis.com/css?family=Strait'
+      rel: "stylesheet",
+      href: "https://fonts.googleapis.com/css?family=Strait"
     }]
-
   },
 
   /*
    ** Customize the progress-bar color
    */
   loading: {
-    color: '#fff'
+    color: "#fff"
   },
 
   /*
    ** Global CSS
    */
-  css: [],
+  css: ["~/assets/main.scss"],
 
   /*
    ** Plugins to load before mounting the App
@@ -58,8 +61,8 @@ module.exports = {
    */
   modules: [,
     // Doc:https://github.com/nuxt-community/modules/tree/master/packages/bulma
-    '@nuxtjs/bulma',
-    '@nuxtjs/font-awesome'
+    "@nuxtjs/bulma",
+    "@nuxtjs/font-awesome"
   ],
 
   /*
@@ -76,8 +79,6 @@ module.exports = {
     /*
      ** You can extend webpack config here
      */
-    extend(config, ctx) {
-
-    }
+    extend(config, ctx) {}
   }
-}
+};
