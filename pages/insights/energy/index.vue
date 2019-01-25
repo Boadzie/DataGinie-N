@@ -18,7 +18,7 @@
               <nuxt-link
                 class="subtitle"
                 to="/insights/energy/southern_ghana_energy"
-              >Southern Ghana Energy Visualization</nuxt-link>
+              >Electricity Customers in Southern Ghana - 2014</nuxt-link>
             </div>
           </div>
         </div>
@@ -31,6 +31,10 @@
 h1 {
   margin-top: 2rem;
   margin-bottom: 2rem;
+}
+
+section {
+  margin-bottom: 3rem;
 }
 </style>
 
