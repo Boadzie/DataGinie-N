@@ -103,10 +103,7 @@
             <div class>
               <div class="card-image">
                 <figure class="image is-4by3">
-                  <img
-                    src="https://bulma.io/images/placeholders/1280x960.png"
-                    alt="Placeholder image"
-                  >
+                  <img src="~assets/images/government.svg" alt="government">
                 </figure>
               </div>
               <div class="card-content">
@@ -114,8 +111,10 @@
                   <h1 class="subtitle">Government</h1>
                 </div>
                 <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Phasellus nec iaculis mauris.
+                  <p class="content">The insight from the charts will help the government focus on the Western Region,
+                  when it comes to taking up public education on the efficient usage of electricity.
+                  This is due to its high consumptions rate.
+                  </p>
                 </div>
               </div>
             </div>
@@ -124,10 +123,7 @@
             <div class>
               <div class="card-image">
                 <figure class="image is-4by3">
-                  <img
-                    src="https://bulma.io/images/placeholders/1280x960.png"
-                    alt="Placeholder image"
-                  >
+                  <img src="~assets/images/firms.svg" alt="firms">
                 </figure>
               </div>
               <div class="card-content">
@@ -135,8 +131,10 @@
                   <h1 class="subtitle">Firms</h1>
                 </div>
                 <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Phasellus nec iaculis mauris.
+                  <p class="content">Companies who are into the production, sales and distribution of electrical appliances can rely on this information
+                  to sell thier energy efficient products to the Western Region;
+                  thus reducing energy consumption rate in the Western region.
+                  </p>
                 </div>
               </div>
             </div>
@@ -145,10 +143,7 @@
             <div class>
               <div class="card-image">
                 <figure class="image is-4by3">
-                  <img
-                    src="https://bulma.io/images/placeholders/1280x960.png"
-                    alt="Placeholder image"
-                  >
+                  <img src="~assets/images/individuals.svg" alt="individuals">
                 </figure>
               </div>
               <div class="card-content">
@@ -156,8 +151,10 @@
                   <h1 class="subtitle">Individuals</h1>
                 </div>
                 <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Phasellus nec iaculis mauris.
+                  <p class="content">This insight will make users of electricity more responsible in thier daily
+                  usage of electricity in their various homes,
+                  especially people living in the Western Region so as to cut down cost.
+                  </p>
                 </div>
               </div>
             </div>
