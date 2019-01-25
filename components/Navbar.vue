@@ -20,12 +20,11 @@
             <nuxt-link class="navbar-link" to="/insights">Insights</nuxt-link>
             <div class="navbar-dropdown is-boxed">
               <nuxt-link class="navbar-item" to="/insights/energy">Energy</nuxt-link>
-              <a class="navbar-item" href>Transport</a>
-              <a class="navbar-item" href>Agriculture</a>
-              <a class="navbar-item" href>Finance</a>
-              <hr class="navbar-divider">
-              <a class="navbar-item" href>Education</a>
-              <a class="navbar-item" href>Health</a>
+              <nuxt-link class="navbar-item" to="/insights/education">Education</nuxt-link>
+              <nuxt-link class="navbar-item" to="/insights/finance">Finance</nuxt-link>
+              <nuxt-link class="navbar-item" to="/insights/health">Health</nuxt-link>
+              <nuxt-link class="navbar-item" to="/insights/transport">Transport</nuxt-link>
+              <nuxt-link class="navbar-item" to="/insights/agriculture">Agriculture</nuxt-link>
             </div>
           </div>
 
