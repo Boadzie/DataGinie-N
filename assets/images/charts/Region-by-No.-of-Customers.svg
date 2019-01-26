@@ -5,12 +5,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg186"
-   height="155.57001mm"
+   id="svg216"
+   height="181.67999mm"
    width="320.42999mm"
    version="1.0">
   <metadata
-     id="metadata190">
+     id="metadata220">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,7 +27,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path2"
-         d="M 0,52 L 1046,52 L 1046,544 L 0,544 z" />
+         d="M 1057.2669,68.952189 L 1156.1983,68.952189 L 1156.1983,86.939717 L 1057.2669,86.939717 z" />
     </clipPath>
     <pattern
        y="0"
@@ -39,303 +39,302 @@
   </defs>
   <path
      id="path8"
-     d="  M 0,0   L 0,588   L 1213,588   L 1213,0   L 0,0   z "
+     d="  M 0,0   L 0,687.52328   L 1212.1595,687.52328   L 1212.1595,0   L 0,0   z "
      style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <path
      id="path10"
-     d="  M 0,52   L 0,544   L 1046,544   L 1046,52   L 0,52   z "
+     d="  M 0,51.963969   L 0,643.55376   L 1045.2752,643.55376   L 1045.2752,51.963969   L 0,51.963969   z "
      style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <path
      id="path12"
-     d="  M 0,52   L 0,545   L 1046,545   L 1046,52   L 0,52   z "
+     d="  M 0,51.963969   L 0,644.55307   L 1045.2752,644.55307   L 1045.2752,51.963969   L 0,51.963969   z "
      style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <path
      id="path14"
-     d="  M 0,104   L 0,545   L 1046,545   L 1046,104   L 0,104   z "
+     d="  M 0,103.92794   L 0,644.55307   L 1045.2752,644.55307   L 1045.2752,103.92794   L 0,103.92794   z "
      style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <path
      id="path16"
-     d="  M 0,52   L 0,545   L 1046,545   L 1046,52   L 0,52   z "
+     d="  M 0,51.963969   L 0,644.55307   L 1045.2752,644.55307   L 1045.2752,51.963969   L 0,51.963969   z "
      style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <path
      id="path18"
-     d="  M 0,52   L 0,545   L 1047,545   L 1047,52   L 0,52   z "
+     d="  M 0,51.963969   L 0,644.55307   L 1046.2745,644.55307   L 1046.2745,51.963969   L 0,51.963969   z "
      style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <path
      id="path20"
-     d="  M 734.875,424   C 734.875,463.75 702.75,495.875 663,495.875   C 623.3125,495.875 591.1875,463.75 591.1875,424   C 591.1875,384.3125 623.3125,352.1875 663,352.1875   C 702.75,352.1875 734.875,384.3125 734.875,424   z "
-     style="fill:#edc948;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+     d="  M 522.63761,347.75887   L 522.63761,170.69414   C 587.03046,170.69414 646.36431,205.60743 677.5302,261.94337   z "
+     style="fill:none;stroke:#4e79a7;stroke-width:0.062456694px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
   <path
      id="path22"
-     d="  M 686.8125,302   C 686.8125,331.75 662.75,355.8125 633,355.8125   C 603.3125,355.8125 579.25,331.75 579.25,302   C 579.25,272.3125 603.3125,248.25 633,248.25   C 662.75,248.25 686.8125,272.3125 686.8125,302   z "
-     style="fill:#59a14f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+     d="  M 522.63761,347.75887   L 522.63761,170.69414   C 587.03046,170.69414 646.36431,205.60743 677.5302,261.94337   z "
+     style="fill:#4e79a7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <path
      id="path24"
-     d="  M 622.8125,184.5   C 622.8125,257.0625 564.0625,315.8125 491.5,315.8125   C 419,315.8125 360.25,257.0625 360.25,184.5   C 360.25,112 419,53.25 491.5,53.25   C 564.0625,53.25 622.8125,112 622.8125,184.5   z "
-     style="fill:#76b7b2;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+     d="  M 522.63761,347.75887   L 677.5302,261.94337   C 696.20476,295.54507 703.38728,334.33068 698.016,372.42926   z "
+     style="fill:none;stroke:#f28e2b;stroke-width:0.062456694px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
   <path
      id="path26"
-     d="  M 542.5625,483   C 542.5625,516.4375 515.4375,543.5625 482,543.5625   C 448.625,543.5625 421.5,516.4375 421.5,483   C 421.5,449.625 448.625,422.5 482,422.5   C 515.4375,422.5 542.5625,449.625 542.5625,483   z "
-     clip-path="url(#clipEmfPath1)"
-     style="fill:#e15759;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
-  <path
-     id="path28"
-     d="  M 601.75,372   C 601.75,407.25 573.25,435.75 538,435.75   C 502.8125,435.75 474.3125,407.25 474.3125,372   C 474.3125,336.8125 502.8125,308.3125 538,308.3125   C 573.25,308.3125 601.75,336.8125 601.75,372   z "
+     d="  M 522.63761,347.75887   L 677.5302,261.94337   C 696.20476,295.54507 703.38728,334.33068 698.016,372.42926   z "
      style="fill:#f28e2b;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <path
+     id="path28"
+     d="  M 522.63761,347.75887   L 698.016,372.42926   C 693.26929,406.34324 678.77934,438.1337 656.29493,463.99077   z "
+     style="fill:none;stroke:#e15759;stroke-width:0.062456694px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
      id="path30"
-     d="  M 474.9375,372.5   C 474.9375,418.0625 438.0625,454.9375 392.5,454.9375   C 347,454.9375 310.125,418.0625 310.125,372.5   C 310.125,327 347,290.125 392.5,290.125   C 438.0625,290.125 474.9375,327 474.9375,372.5   z "
-     style="fill:#4e79a7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+     d="  M 522.63761,347.75887   L 698.016,372.42926   C 693.26929,406.34324 678.77934,438.1337 656.29493,463.99077   z "
+     style="fill:#e15759;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path32"
+     d="  M 522.63761,347.75887   L 656.29493,463.99077   C 592.15191,537.81458 480.29197,545.62167 406.46816,481.41619   C 353.69225,435.57298 332.83172,362.87339 353.31751,295.98227   z "
+     style="fill:none;stroke:#76b7b2;stroke-width:0.062456694px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path34"
+     d="  M 522.63761,347.75887   L 656.29493,463.99077   C 592.15191,537.81458 480.29197,545.62167 406.46816,481.41619   C 353.69225,435.57298 332.83172,362.87339 353.31751,295.98227   z "
+     style="fill:#76b7b2;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path36"
+     d="  M 522.63761,347.75887   L 353.31751,295.98227   C 361.18706,270.31257 374.80261,246.70394 393.16488,227.03008   z "
+     style="fill:none;stroke:#59a14f;stroke-width:0.062456694px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path38"
+     d="  M 522.63761,347.75887   L 353.31751,295.98227   C 361.18706,270.31257 374.80261,246.70394 393.16488,227.03008   z "
+     style="fill:#59a14f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path40"
+     d="  M 522.63761,347.75887   L 393.16488,227.03008   C 426.64167,191.11748 473.54665,170.69414 522.63761,170.69414   z "
+     style="fill:none;stroke:#edc948;stroke-width:0.062456694px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path42"
+     d="  M 522.63761,347.75887   L 393.16488,227.03008   C 426.64167,191.11748 473.54665,170.69414 522.63761,170.69414   z "
+     style="fill:#edc948;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <text
-     id="text36"
+     id="text48"
      y="0.000000"
      x="0.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,616.000000,421.000000)"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,305.787969,517.641071)"
      style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
-     xml:space="preserve"><tspan
-       id="tspan34"
-       y="0.000000"
-       x="0.000000"><tspan
-         id="tspan32"
-         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
-         dy="0.000000"
-         dx="0.000000">Western Region</tspan></tspan></text>
-  <text
-     id="text42"
-     y="18.000000"
-     x="24.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,616.000000,421.000000)"
-     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
-     xml:space="preserve"><tspan
-       id="tspan40"
-       y="18.000000"
-       x="24.000000"><tspan
-         id="tspan38"
-         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
-         dy="0.000000"
-         dx="0.000000">257,244</tspan></tspan></text>
-  <text
-     id="text52"
-     y="-121.000000"
-     x="25.512451"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,616.000000,421.000000)"
-     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:138.461538%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:center;text-anchor:middle;"
      xml:space="preserve"><tspan
        id="tspan46"
-       y="-121.000000"
-       x="25.512451"><tspan
+       y="0.000000"
+       x="0.000000"><tspan
          id="tspan44"
-         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
-         dy="0.000000"
-         dx="0.000000">Volta Region</tspan></tspan><tspan
-       id="tspan50"
-       y="-103.000000"
-       x="22.605469"><tspan
-         id="tspan48"
-         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
-         dy="0.000000"
-         dx="0.000000">143,946</tspan></tspan></text>
-  <text
-     id="text58"
-     y="-241.000000"
-     x="-188.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,616.000000,421.000000)"
-     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
-     xml:space="preserve"><tspan
-       id="tspan56"
-       y="-241.000000"
-       x="-188.000000"><tspan
-         id="tspan54"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
          dx="0.000000">Greater Accra Region</tspan></tspan></text>
   <text
-     id="text64"
-     y="-223.000000"
-     x="-148.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,616.000000,421.000000)"
+     id="text54"
+     y="17.987528"
+     x="39.972283"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,305.787969,517.641071)"
      style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
      xml:space="preserve"><tspan
-       id="tspan62"
-       y="-223.000000"
-       x="-148.000000"><tspan
-         id="tspan60"
+       id="tspan52"
+       y="17.987528"
+       x="39.972283"><tspan
+         id="tspan50"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
          dx="0.000000">858,425</tspan></tspan></text>
   <text
-     id="text70"
-     y="59.000000"
-     x="-179.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,616.000000,421.000000)"
+     id="text60"
+     y="-356.752630"
+     x="47.966740"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,305.787969,517.641071)"
      style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
      xml:space="preserve"><tspan
-       id="tspan68"
-       y="59.000000"
-       x="-179.000000"><tspan
-         id="tspan66"
+       id="tspan58"
+       y="-356.752630"
+       x="47.966740"><tspan
+         id="tspan56"
+         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Western Region</tspan></tspan></text>
+  <text
+     id="text66"
+     y="-338.765102"
+     x="71.950110"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,305.787969,517.641071)"
+     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan64"
+       y="-338.765102"
+       x="71.950110"><tspan
+         id="tspan62"
+         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">257,244</tspan></tspan></text>
+  <text
+     id="text72"
+     y="-80.943874"
+     x="379.736693"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,305.787969,517.641071)"
+     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan70"
+       y="-80.943874"
+       x="379.736693"><tspan
+         id="tspan68"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
          dx="0.000000">Eastern Region</tspan></tspan></text>
   <text
-     id="text76"
-     y="77.000000"
-     x="-158.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,616.000000,421.000000)"
+     id="text78"
+     y="-62.956346"
+     x="400.722142"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,305.787969,517.641071)"
      style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
      xml:space="preserve"><tspan
-       id="tspan74"
-       y="77.000000"
-       x="-158.000000"><tspan
-         id="tspan72"
+       id="tspan76"
+       y="-62.956346"
+       x="400.722142"><tspan
+         id="tspan74"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
          dx="0.000000">182,480</tspan></tspan></text>
   <text
-     id="text82"
-     y="-51.000000"
-     x="-121.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,616.000000,421.000000)"
+     id="text84"
+     y="-345.760252"
+     x="308.785890"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,305.787969,517.641071)"
      style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
      xml:space="preserve"><tspan
-       id="tspan80"
-       y="-51.000000"
-       x="-121.000000"><tspan
-         id="tspan78"
-         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
-         dy="0.000000"
-         dx="0.000000">Central Region</tspan></tspan></text>
-  <text
-     id="text88"
-     y="-33.000000"
-     x="-101.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,616.000000,421.000000)"
-     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
-     xml:space="preserve"><tspan
-       id="tspan86"
-       y="-33.000000"
-       x="-101.000000"><tspan
-         id="tspan84"
-         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
-         dy="0.000000"
-         dx="0.000000">202,246</tspan></tspan></text>
-  <text
-     id="text94"
-     y="-51.000000"
-     x="-268.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,616.000000,421.000000)"
-     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
-     xml:space="preserve"><tspan
-       id="tspan92"
-       y="-51.000000"
-       x="-268.000000"><tspan
-         id="tspan90"
+       id="tspan82"
+       y="-345.760252"
+       x="308.785890"><tspan
+         id="tspan80"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
          dx="0.000000">Ashanti Region</tspan></tspan></text>
   <text
-     id="text100"
-     y="-33.000000"
-     x="-247.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,616.000000,421.000000)"
+     id="text90"
+     y="-327.772724"
+     x="329.771339"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,305.787969,517.641071)"
      style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
      xml:space="preserve"><tspan
-       id="tspan98"
-       y="-33.000000"
-       x="-247.000000"><tspan
-         id="tspan96"
+       id="tspan88"
+       y="-327.772724"
+       x="329.771339"><tspan
+         id="tspan86"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
          dx="0.000000">338,142</tspan></tspan></text>
   <text
-     id="text106"
-     y="-387.000000"
-     x="-612.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,616.000000,421.000000)"
+     id="text96"
+     y="-223.844787"
+     x="392.727685"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,305.787969,517.641071)"
+     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan94"
+       y="-223.844787"
+       x="392.727685"><tspan
+         id="tspan92"
+         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Central Region</tspan></tspan></text>
+  <text
+     id="text102"
+     y="-205.857260"
+     x="412.713827"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,305.787969,517.641071)"
+     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan100"
+       y="-205.857260"
+       x="412.713827"><tspan
+         id="tspan98"
+         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">202,246</tspan></tspan></text>
+  <text
+     id="text112"
+     y="-281.804598"
+     x="30.523538"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,305.787969,517.641071)"
+     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:138.365597%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:center;text-anchor:middle;"
+     xml:space="preserve"><tspan
+       id="tspan106"
+       y="-281.804598"
+       x="30.523538"><tspan
+         id="tspan104"
+         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Volta Region</tspan></tspan><tspan
+       id="tspan110"
+       y="-263.817071"
+       x="27.606855"><tspan
+         id="tspan108"
+         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">143,946</tspan></tspan></text>
+  <text
+     id="text118"
+     y="-483.664630"
+     x="-301.790740"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,305.787969,517.641071)"
      style="font-size:27.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
      xml:space="preserve"><tspan
-       id="tspan104"
-       y="-387.000000"
-       x="-612.000000"><tspan
-         id="tspan102"
+       id="tspan116"
+       y="-483.664630"
+       x="-301.790740"><tspan
+         id="tspan114"
          style="fill:#000000;font-size:27.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
          dx="0.000000">Region by number of Customers</tspan></tspan></text>
   <path
-     id="path108"
-     d="  M 1056,52   L 1056,188   L 1213,188   L 1213,52   L 1056,52   z "
+     id="path120"
+     d="  M 1055.2683,51.963969   L 1055.2683,87.939024   L 1195.1713,87.939024   L 1195.1713,51.963969   L 1055.2683,51.963969   z "
      style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <text
-     id="text114"
+     id="text126"
      y="0.000000"
      x="0.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1057.000000,66.000000)"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1056.267591,65.954268)"
      style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
      xml:space="preserve"><tspan
-       id="tspan112"
+       id="tspan124"
        y="0.000000"
        x="0.000000"><tspan
-         id="tspan110"
+         id="tspan122"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
-         dx="0.000000">Region</tspan></tspan></text>
-  <path
-     id="path116"
-     d="  M 1059,71   L 1059,85   L 1073,85   L 1073,71   L 1059,71   z "
-     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
-  <path
-     id="path118"
-     d="  M 1059,71   L 1059,85   L 1073,85   L 1073,71   L 1059,71   z "
-     style="fill:#4e79a7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
-  <text
-     id="text124"
-     y="0.000000"
-     x="0.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1078.000000,83.000000)"
-     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
-     xml:space="preserve"><tspan
-       id="tspan122"
-       y="0.000000"
-       x="0.000000"><tspan
-         id="tspan120"
-         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
-         dy="0.000000"
-         dx="0.000000">Ashanti Region</tspan></tspan></text>
-  <path
-     id="path126"
-     d="  M 1059,91   L 1059,105   L 1073,105   L 1073,91   L 1059,91   z "
-     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+         dx="0.000000">Number Of Customers</tspan></tspan></text>
   <path
      id="path128"
-     d="  M 1059,91   L 1059,105   L 1073,105   L 1073,91   L 1059,91   z "
-     style="fill:#f28e2b;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+     d="  M 1154.1997,77.945953   C 1154.1997,104.17776 1132.9644,125.41304 1106.7326,125.41304   C 1080.5632,125.41304 1059.2655,104.17776 1059.2655,77.945953   C 1059.2655,51.776598 1080.5632,30.478866 1106.7326,30.478866   C 1132.9644,30.478866 1154.1997,51.776598 1154.1997,77.945953   z "
+     clip-path="url(#clipEmfPath1)"
+     style="fill:#d8d8d8;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path130"
+     d="  M 1154.1997,77.945953   C 1154.1997,104.17776 1132.9644,125.41304 1106.7326,125.41304   C 1080.5632,125.41304 1059.2655,104.17776 1059.2655,77.945953   C 1059.2655,51.776598 1080.5632,30.478866 1106.7326,30.478866   C 1132.9644,30.478866 1154.1997,51.776598 1154.1997,77.945953  "
+     clip-path="url(#clipEmfPath1)"
+     style="fill:none;stroke:#b2b2b2;stroke-width:1.9986142px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
   <text
-     id="text134"
+     id="text136"
      y="0.000000"
      x="0.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1078.000000,103.000000)"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1132.214929,82.942488)"
      style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
      xml:space="preserve"><tspan
-       id="tspan132"
+       id="tspan134"
        y="0.000000"
        x="0.000000"><tspan
-         id="tspan130"
+         id="tspan132"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
-         dx="0.000000">Central Region</tspan></tspan></text>
-  <path
-     id="path136"
-     d="  M 1059,111   L 1059,125   L 1073,125   L 1073,111   L 1059,111   z "
-     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+         dx="0.000000">1,982,483</tspan></tspan></text>
   <path
      id="path138"
-     d="  M 1059,111   L 1059,125   L 1073,125   L 1073,111   L 1059,111   z "
-     style="fill:#e15759;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+     d="  M 1055.2683,97.932094   L 1055.2683,233.83786   L 1212.1595,233.83786   L 1212.1595,97.932094   L 1055.2683,97.932094   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <text
      id="text144"
      y="0.000000"
      x="0.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1078.000000,123.000000)"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1056.267591,111.922394)"
      style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
      xml:space="preserve"><tspan
        id="tspan142"
@@ -344,20 +343,20 @@
          id="tspan140"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
-         dx="0.000000">Eastern Region</tspan></tspan></text>
+         dx="0.000000">Region</tspan></tspan></text>
   <path
      id="path146"
-     d="  M 1059,131   L 1059,145   L 1073,145   L 1073,131   L 1059,131   z "
+     d="  M 1058.2662,116.91893   L 1058.2662,130.90923   L 1072.2565,130.90923   L 1072.2565,116.91893   L 1058.2662,116.91893   z "
      style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <path
      id="path148"
-     d="  M 1059,131   L 1059,145   L 1073,145   L 1073,131   L 1059,131   z "
-     style="fill:#76b7b2;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+     d="  M 1058.2662,116.91893   L 1058.2662,130.90923   L 1072.2565,130.90923   L 1072.2565,116.91893   L 1058.2662,116.91893   z "
+     style="fill:#4e79a7;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <text
      id="text154"
      y="0.000000"
      x="0.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1078.000000,143.000000)"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1077.253039,128.910614)"
      style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
      xml:space="preserve"><tspan
        id="tspan152"
@@ -366,20 +365,20 @@
          id="tspan150"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
-         dx="0.000000">Greater Accra Region</tspan></tspan></text>
+         dx="0.000000">Ashanti Region</tspan></tspan></text>
   <path
      id="path156"
-     d="  M 1059,151   L 1059,165   L 1073,165   L 1073,151   L 1059,151   z "
+     d="  M 1058.2662,136.90507   L 1058.2662,150.89537   L 1072.2565,150.89537   L 1072.2565,136.90507   L 1058.2662,136.90507   z "
      style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <path
      id="path158"
-     d="  M 1059,151   L 1059,165   L 1073,165   L 1073,151   L 1059,151   z "
-     style="fill:#59a14f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+     d="  M 1058.2662,136.90507   L 1058.2662,150.89537   L 1072.2565,150.89537   L 1072.2565,136.90507   L 1058.2662,136.90507   z "
+     style="fill:#f28e2b;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <text
      id="text164"
      y="0.000000"
      x="0.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1078.000000,163.000000)"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1077.253039,148.896756)"
      style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
      xml:space="preserve"><tspan
        id="tspan162"
@@ -388,20 +387,20 @@
          id="tspan160"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
-         dx="0.000000">Volta Region</tspan></tspan></text>
+         dx="0.000000">Central Region</tspan></tspan></text>
   <path
      id="path166"
-     d="  M 1059,171   L 1059,185   L 1073,185   L 1073,171   L 1059,171   z "
+     d="  M 1058.2662,156.89121   L 1058.2662,170.88151   L 1072.2565,170.88151   L 1072.2565,156.89121   L 1058.2662,156.89121   z "
      style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <path
      id="path168"
-     d="  M 1059,171   L 1059,185   L 1073,185   L 1073,171   L 1059,171   z "
-     style="fill:#edc948;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+     d="  M 1058.2662,156.89121   L 1058.2662,170.88151   L 1072.2565,170.88151   L 1072.2565,156.89121   L 1058.2662,156.89121   z "
+     style="fill:#e15759;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <text
      id="text174"
      y="0.000000"
      x="0.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1078.000000,183.000000)"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1077.253039,168.882898)"
      style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
      xml:space="preserve"><tspan
        id="tspan172"
@@ -410,25 +409,91 @@
          id="tspan170"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
-         dx="0.000000">Western Region</tspan></tspan></text>
+         dx="0.000000">Eastern Region</tspan></tspan></text>
+  <path
+     id="path176"
+     d="  M 1058.2662,176.87735   L 1058.2662,190.86765   L 1072.2565,190.86765   L 1072.2565,176.87735   L 1058.2662,176.87735   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path178"
+     d="  M 1058.2662,176.87735   L 1058.2662,190.86765   L 1072.2565,190.86765   L 1072.2565,176.87735   L 1058.2662,176.87735   z "
+     style="fill:#76b7b2;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
   <text
      id="text184"
-     y="381.000000"
-     x="-1078.000000"
-     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1078.000000,183.000000)"
-     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:115.384615%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1077.253039,188.869039)"
+     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
      xml:space="preserve"><tspan
-       id="tspan178"
-       y="381.000000"
-       x="-1078.000000"><tspan
-         id="tspan176"
+       id="tspan182"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan180"
+         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Greater Accra Region</tspan></tspan></text>
+  <path
+     id="path186"
+     d="  M 1058.2662,196.8635   L 1058.2662,210.8538   L 1072.2565,210.8538   L 1072.2565,196.8635   L 1058.2662,196.8635   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path188"
+     d="  M 1058.2662,196.8635   L 1058.2662,210.8538   L 1072.2565,210.8538   L 1072.2565,196.8635   L 1058.2662,196.8635   z "
+     style="fill:#59a14f;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text194"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1077.253039,208.855181)"
+     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan192"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan190"
+         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Volta Region</tspan></tspan></text>
+  <path
+     id="path196"
+     d="  M 1058.2662,216.84964   L 1058.2662,230.83994   L 1072.2565,230.83994   L 1072.2565,216.84964   L 1058.2662,216.84964   z "
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path198"
+     d="  M 1058.2662,216.84964   L 1058.2662,230.83994   L 1072.2565,230.83994   L 1072.2565,216.84964   L 1058.2662,216.84964   z "
+     style="fill:#edc948;fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <text
+     id="text204"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1077.253039,228.841323)"
+     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan202"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan200"
+         style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
+         dy="0.000000"
+         dx="0.000000">Western Region</tspan></tspan></text>
+  <text
+     id="text214"
+     y="434.698583"
+     x="-1077.253039"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,1077.253039,228.841323)"
+     style="font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;line-height:115.304664%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan208"
+       y="434.698583"
+       x="-1077.253039"><tspan
+         id="tspan206"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
          dx="0.000000">Region and sum of Number Of Customers.  Color shows details about Region.  Size shows sum of Number Of Customers.  The marks are labeled by Region and sum of</tspan></tspan><tspan
-       id="tspan182"
-       y="396.000000"
-       x="-1078.000000"><tspan
-         id="tspan180"
+       id="tspan212"
+       y="449.688189"
+       x="-1077.253039"><tspan
+         id="tspan210"
          style="fill:#000000;font-size:13.000000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Normal;font-family:Microsoft Sans Serif;"
          dy="0.000000"
          dx="0.000000">Number Of Customers.</tspan></tspan></text>

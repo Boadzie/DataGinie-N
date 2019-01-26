@@ -22,10 +22,12 @@
     <div class="content container">
       <div v-if="activetab === 1" class="tabcontent">
         <!-- <div ref="tableau1"></div> -->
-        <div class="column is-12">
-          <figure>
-            <embed src="~assets/images/charts/Region-by-No.-of-Customers.svg" type>
-          </figure>
+        <div class="columns">
+          <div class="column is-12 mobile">
+            <figure>
+              <embed src="~assets/images/charts/Region-by-No.-of-Customers.svg" type>
+            </figure>
+          </div>
         </div>
         <hr>
         <div class="column is-12">
@@ -111,9 +113,10 @@
                   <h1 class="subtitle">Government</h1>
                 </div>
                 <div class="content">
-                  <p class="content">The insight from the charts will help the government focus on the Western Region,
-                  when it comes to taking up public education on the efficient usage of electricity.
-                  This is due to its high consumptions rate.
+                  <p class="content">
+                    The insight from the charts will help the government focus on the Western Region,
+                    when it comes to taking up public education on the efficient usage of electricity.
+                    This is due to its high consumptions rate.
                   </p>
                 </div>
               </div>
@@ -131,9 +134,10 @@
                   <h1 class="subtitle">Firms</h1>
                 </div>
                 <div class="content">
-                  <p class="content">Companies who are into the production, sales and distribution of electrical appliances can rely on this information
-                  to sell thier energy efficient products to the Western Region;
-                  thus reducing energy consumption rate in the Western region.
+                  <p class="content">
+                    Companies who are into the production, sales and distribution of electrical appliances can rely on this information
+                    to sell thier energy efficient products to the Western Region;
+                    thus reducing energy consumption rate in the Western region.
                   </p>
                 </div>
               </div>
@@ -151,9 +155,10 @@
                   <h1 class="subtitle">Individuals</h1>
                 </div>
                 <div class="content">
-                  <p class="content">This insight will make users of electricity more responsible in thier daily
-                  usage of electricity in their various homes,
-                  especially people living in the Western Region so as to cut down cost.
+                  <p class="content">
+                    This insight will make users of electricity more responsible in thier daily
+                    usage of electricity in their various homes,
+                    especially people living in the Western Region so as to cut down cost.
                   </p>
                 </div>
               </div>
