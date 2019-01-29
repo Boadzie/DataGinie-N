@@ -4,28 +4,28 @@
       <div class="level">
         <div class="level-item has-text-centered">
           <div>
-            <a href>
+            <a href="https://datadiger.tech" target="_blank">
               <i class="fas fa-globe-africa fa-3x"></i>
             </a>
           </div>
         </div>
         <div class="level-item has-text-centered">
           <div>
-            <a href>
+            <a href="https://twitter.com/DataDiger" target="_blank">
               <i class="fab fa-twitter fa-3x"></i>
             </a>
           </div>
         </div>
         <div class="level-item has-text-centered">
           <div>
-            <a href>
+            <a href="https://www.facebook.com/groups/datadiger/" target="_blank">
               <i class="fab fa-facebook fa-3x"></i>
             </a>
           </div>
         </div>
         <div class="level-item has-text-centered">
           <div>
-            <a href>
+            <a href="https://instagram.com/datadiger" target="_blank">
               <i class="fab fa-instagram fa-3x"></i>
             </a>
           </div>

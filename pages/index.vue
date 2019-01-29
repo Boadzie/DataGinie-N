@@ -14,7 +14,7 @@
             <br>
             <br>
             <div class="space">
-              <a class="button is-success">Learn more</a>
+              <nuxt-link class="button is-success" to="insights">Learn more</nuxt-link>
             </div>
           </div>
           <div class="column is-half level-right">
@@ -42,5 +42,4 @@ export default {
 </script>
 
 <style scoped>
-  
 </style>
