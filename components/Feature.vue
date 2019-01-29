@@ -2,7 +2,7 @@
   <!-- feature section in -->
   <div class="container space">
     <section>
-      <div class="level columns">
+      <div class="level columns has-text-centered">
         <div class="level-left column is-half">
           <img src="~/assets/images/segmentation.svg" alt="feat_1" width="650rem">
         </div>
@@ -18,7 +18,7 @@
     </section>
     <!-- feature 2 -->
     <section>
-      <div class="level columns">
+      <div class="level columns has-text-centered">
         <div class="level-right column is-half">
           <h5 class="title">Practical Analytics</h5>
           <p class="level-item subtitle">
@@ -33,7 +33,7 @@
     </section>
     <!-- feature 3 -->
     <section>
-      <div class="level columns">
+      <div class="level columns has-text-centered">
         <div class="level-left column is-half">
           <img src="~/assets/images/world.svg" alt="feat_1" width="650rem">
         </div>

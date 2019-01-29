@@ -14,7 +14,7 @@
             <br>
             <br>
             <div class="space">
-              <nuxt-link class="button is-success" to="insights">Learn more</nuxt-link>
+              <nuxt-link class="button is-success is-rounded" to="insights">Learn more</nuxt-link>
             </div>
           </div>
           <div class="column is-half level-right">
