@@ -9,10 +9,10 @@
           <h1 class="title">About Us</h1>
           <p class="subtitle">
             We live in a data world where the most important resource next to people is data.
-            Tones of data are generated dialy in many forms. Most of this data is open source.
-            But it is not enough to make data open. To derive insight that will inform decision making, hence making it useful,
-            it must be analized and visulaized simple and clear enough for the layman to benefit from it.
-            DataGinie is a platform that provides intuitive insights from open source data.
+            Tones of data are generated daily in many forms. Most of this data is open source.
+            But it is not enough to make data open. To derive insight that will inform decision making, hence making it useful;
+            it must be analized and visualized in a simple and clear enough way for the layman to benefit from it.
+            DataGinie is a platform that provides intuitive insights from open source data. We are the first AI/Data Science as a service company in Ghana, if not Africa.
           </p>
         </div>
       </div>
@@ -34,16 +34,16 @@
           <p class="subtitle is-6">Data Scientist |
             <br>Fullstack Developer.
           </p>
-          <a>
+          <a href="https://github.com/boadzie" target="_blank">
             <i class="fab fa-github fa-2x"></i>
           </a>
-          <a>
+          <a href="https://twitter.com/boadzie" target="_blank">
             <i class="fab fa-twitter fa-2x"></i>
           </a>
-          <a>
+          <a href="https://www.linkedin.com/in/daniel-boadzie-5ab68213a/" target="_blank">
             <i class="fab fa-linkedin fa-2x"></i>
           </a>
-          <a>
+          <a href="https://www.facebook.com/profile.php?id=100006259099181s" target="_blank">
             <i class="fab fa-facebook fa-2x"></i>
           </a>
         </div>
@@ -57,16 +57,16 @@
           <p class="subtitle is-6">Fullstack Developer |
             <br>Graphic Designer.
           </p>
-          <a>
+          <a href="https://github.com/JosephAkayesi" target="_blank">
             <i class="fab fa-github fa-2x"></i>
           </a>
-          <a>
+          <a href="https://twitter.com/GHkwamejhosef" target="_blank">
             <i class="fab fa-twitter fa-2x"></i>
           </a>
-          <a>
+          <a href="https://www.linkedin.com/in/josephakayesi/" target="_blank">
             <i class="fab fa-linkedin fa-2x"></i>
           </a>
-          <a>
+          <a href="https://www.facebook.com/josephakayesi1" target="_blank">
             <i class="fab fa-facebook fa-2x"></i>
           </a>
         </div>
@@ -80,13 +80,13 @@
           <p class="subtitle is-6">Fullstack Developer |
             <br>UX, UI Developer
           </p>
-          <a>
+          <a href="https://github.com/victorbruce" target="_blank">
             <i class="fab fa-github fa-2x"></i>
           </a>
-          <a>
+          <a href="https://twitter.com/victorbruce3" target="_blank">
             <i class="fab fa-twitter fa-2x"></i>
           </a>
-          <a>
+          <a href="https://linkedin.com/in/victorbruce3" target="_blank">
             <i class="fab fa-linkedin fa-2x"></i>
           </a>
           <a>
