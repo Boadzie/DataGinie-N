@@ -35,7 +35,7 @@ module.exports = {
     }],
     link: [{
       rel: "stylesheet",
-      href: "https://fonts.googleapis.com/css?family=Strait"
+      href: "https://fonts.googleapis.com/css?family=Krub"
     }]
   },
 
@@ -49,7 +49,7 @@ module.exports = {
   /*
    ** Global CSS
    */
-  css: ["~/assets/main.scss"],
+  css: ["~/assets/main.css"],
 
   /*
    ** Plugins to load before mounting the App

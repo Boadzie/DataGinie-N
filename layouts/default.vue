@@ -22,7 +22,7 @@ export default {
 
 <style>
 html {
-  font-family: "Strait", sans-serif;
+  font-family: "Krub", sans-serif;
   font-size: 14px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;

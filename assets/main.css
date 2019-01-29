@@ -1,4 +1,10 @@
-// Transitions
+html,
+body {
+  font-family: "Krub",
+    sans-serif;
+}
+
+/* transitions */
 .page-enter-active,
 .page-leave-active {
   transition: opacity .5s;

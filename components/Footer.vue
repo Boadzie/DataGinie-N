@@ -1,7 +1,7 @@
 <template>
   <section>
     <footer class="footer" style="padding-bottom:30px;">
-      <div class="level">
+      <nav class="level is-mobile">
         <div class="level-item has-text-centered">
           <div>
             <a href="https://datadiger.tech" target="_blank">
@@ -30,7 +30,7 @@
             </a>
           </div>
         </div>
-      </div>
+      </nav>
       <br>
       <br>
       <div class="has-text-centered has-font-weight-bold">
@@ -43,5 +43,9 @@
 <style scoped>
 footer {
   background-color: beige;
+}
+
+i {
+  background-color: dodgerblue;
 }
 </style>
