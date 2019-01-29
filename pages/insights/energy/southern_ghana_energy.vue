@@ -23,9 +23,9 @@
       <div v-if="activetab === 1" class="tabcontent">
         <!-- <div ref="tableau1"></div> -->
         <div class="columns">
-          <div class="column is-12 mobile">
+          <div class="column is-12">
             <figure>
-              <embed src="~assets/images/charts/Region-by-No.-of-Customers.svg" type>
+              <img src="~assets/images/charts/Region-by-No.-of-Customers.svg" type>
             </figure>
           </div>
         </div>
@@ -171,8 +171,6 @@
 </template>
 
 <script>
-import "vue-tableau";
-
 export default {
   data() {
     return {
