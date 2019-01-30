@@ -32,4 +32,7 @@ html {
   box-sizing: border-box;
   background-color: #fff;
 }
+body {
+  line-height: 2rem;
+}
 </style>

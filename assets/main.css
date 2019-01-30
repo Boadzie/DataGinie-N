@@ -1,7 +1,10 @@
-html,
 body {
-  font-family: "Krub",
-    sans-serif;
+  font-family: 'Pontano Sans',
+    sans-serif !important;
+}
+
+p {
+  font-size: 18px;
 }
 
 /* transitions */

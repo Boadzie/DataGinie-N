@@ -79,4 +79,11 @@ export default {
 </script>
 
 <style scoped>
+nav {
+  font-size: 20px;
+}
+
+.navbar-item {
+  font-size: 16px;
+}
 </style>

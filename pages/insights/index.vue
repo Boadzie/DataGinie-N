@@ -104,5 +104,6 @@ h1 {
 
 section {
   margin-bottom: 3rem;
+  margin: 40px;
 }
 </style>

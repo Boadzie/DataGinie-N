@@ -7,11 +7,9 @@
       <!-- Hero content: will be in the middle -->
       <div class="hero-body">
         <div class="container columns level">
-          <div class="column is-half has-text-centered level-left">
-            <em class="title">Informed Decisions produce wins;</em>
-            <br>
-            <i class="subtitle">intuitive visualization uncover insight that inform decisions.</i>
-            <br>
+          <div class="column has-text-centered is-half level-left">
+            <h1 class="title is-2">Informed Decisions produce wins;</h1>
+            <h3 class="is-size-4">intuitive visualization uncover insight that inform decisions.</h3>
             <br>
             <div class="space">
               <nuxt-link class="button is-success is-rounded is-large" to="insights">Learn more</nuxt-link>
@@ -20,7 +18,7 @@
           <div class="column is-half level-right">
             <img
               width="100%"
-              height="30rem"
+              height="50%"
               src="~/assets/images/data_trends.svg"
               class="step__image"
             >
@@ -42,4 +40,6 @@ export default {
 </script>
 
 <style scoped>
+section {
+}
 </style>

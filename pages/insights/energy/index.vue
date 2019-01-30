@@ -6,7 +6,7 @@
       </div>
     </div>
     <div class="columns">
-      <div class="column is-3">
+      <div class="column level is-3">
         <div class="card">
           <div class="card-image">
             <figure class="image is-4by3">
@@ -35,6 +35,7 @@ h1 {
 
 section {
   margin-bottom: 3rem;
+  margin: 40px;
 }
 </style>
 

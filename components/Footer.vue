@@ -33,7 +33,7 @@
       </nav>
       <br>
       <br>
-      <div class="has-text-centered has-font-weight-bold">
+      <div class="has-text-centered is-size-4">
         <span>DataGinie &copy; 2019. All Rights Reserved.</span>
       </div>
     </footer>
@@ -43,6 +43,10 @@
 <style scoped>
 footer {
   background-color: beige;
+}
+
+section {
+  margin-top: 10rem;
 }
 
 i {

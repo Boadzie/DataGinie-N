@@ -40,7 +40,7 @@
           </div>
           <div class="field">
             <p class="control">
-              <button class="button is-info is-rounded">Send</button>
+              <button class="button is-info is-rounded is-medium">Send</button>
             </p>
           </div>
         </form>
@@ -51,9 +51,14 @@
 
 <style scoped>
 .columns {
-  margin-top: 2rem;
-  margin-bottom: 3rem;
+  margin-top: 3rem;
+  margin-bottom: 4rem;
 }
+
+.container {
+  margin-bottom: -20px;
+}
+
 img {
   width: 500px;
 }

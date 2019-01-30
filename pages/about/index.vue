@@ -5,9 +5,9 @@
         <div class="level-left column is-half">
           <img src="~/assets/images/team_spirit.svg" width="500px" alt="team">
         </div>
-        <div class="level-right column is-half has-text-centered">
-          <h1 class="title">About Us</h1>
-          <p class="subtitle">
+        <div class="level-right column is-half">
+          <h1 class="title has-text-centered">About Us</h1>
+          <p class="is-size-4">
             We live in a data world where the most important resource next to people is data.
             Tones of data are generated daily in many forms. Most of this data is open source.
             But it is not enough to make data open. To derive insight that will inform decision making, hence making it useful;
@@ -19,10 +19,10 @@
     </section>
 
     <!-- the team section -->
-    <section class="fluid">
+    <section class="fluid top">
       <span class="space"></span>
       <h1 class="title has-text-centered top">The Team</h1>
-      <hr class="space container">
+      <hr class="space container is-6 is-offset-6">
       <div class="columns is-12 is-mobile is-multiline is-centered">
         <div class="column is-narrow">
           <figure class="image is-128x128">
@@ -30,8 +30,8 @@
           </figure>
           <br>
           <br>
-          <p class="subtitle is-6">Boadzie Daniel.</p>
-          <p class="subtitle is-6">Data Scientist |
+          <p class="is-size-5">Boadzie Daniel.</p>
+          <p class="is-size-5">Data Scientist |
             <br>Fullstack Developer.
           </p>
           <a href="https://github.com/boadzie" target="_blank">
@@ -53,8 +53,8 @@
           </figure>
           <br>
           <br>
-          <p class="subtitle is-6">Joseph Akayesi.</p>
-          <p class="subtitle is-6">Fullstack Developer |
+          <p class="is-size-5">Joseph Akayesi.</p>
+          <p class="is-size-5">Fullstack Developer |
             <br>Graphic Designer.
           </p>
           <a href="https://github.com/JosephAkayesi" target="_blank">
@@ -76,8 +76,8 @@
           </figure>
           <br>
           <br>
-          <p class="subtitle is-6">Victor-Bruce Crabbe.</p>
-          <p class="subtitle is-6">Fullstack Developer |
+          <p class="is-size-5">Victor-Bruce Crabbe.</p>
+          <p class="is-size-5">Fullstack Developer |
             <br>UX, UI Developer
           </p>
           <a href="https://github.com/victorbruce" target="_blank">
@@ -99,8 +99,8 @@
           </figure>
           <br>
           <br>
-          <p class="subtitle is-6">Robert Wonders.</p>
-          <p class="subtitle is-6">Graphic Designer |
+          <p class="is-size-5">Robert Wonders.</p>
+          <p class="is-size-5">Graphic Designer |
             <br>UX/UI
           </p>
           <a>
@@ -126,7 +126,7 @@
 <style scoped>
 section {
   margin-top: 40px;
-  margin-bottom: 40px;
+  margin-bottom: 4rem;
 }
 
 .space {
@@ -135,12 +135,13 @@ section {
 }
 hr {
   border: 2px solid #5664;
+  width: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .top {
-  margin-top: 2rem;
+  margin-top: 4rem;
 }
 </style>
