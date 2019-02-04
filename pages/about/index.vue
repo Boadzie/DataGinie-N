@@ -1,7 +1,7 @@
 <template>
   <div>
     <section class="container">
-      <div class="level columns">
+      <div class="screen level columns">
         <div class="level-left column is-half">
           <img src="~/assets/images/team_spirit.svg" width="500px" alt="team">
         </div>
@@ -10,9 +10,9 @@
           <p class="is-size-4">
             We live in a data world where the most important resource next to people is data.
             Tones of data are generated daily in many forms. Most of this data is open source.
-            But it is not enough to make data open. To derive insight that will inform decision making, hence making it useful;
-            it must be analized and visualized in a simple and clear enough way for the layman to benefit from it.
-            DataGinie is a platform that provides intuitive insights from open source data. We are the first AI/Data Science as a service company in Ghana, if not Africa.
+            To derive <strong>insight that will inform decision making</strong>, data must be analized and visualized.
+            <strong>DataGinie is a platform that provides intuitive insights from open source data. 
+            We are the first AI/Data Science as a Service company in Ghana.</strong>
           </p>
         </div>
       </div>
@@ -76,7 +76,7 @@
           </figure>
           <br>
           <br>
-          <p class="is-size-5">Victor-Bruce Crabbe.</p>
+          <p class="is-size-5">Victor Bruce-Crabbe.</p>
           <p class="is-size-5">Fullstack Developer |
             <br>UX, UI Developer
           </p>
@@ -143,5 +143,19 @@ hr {
 
 .top {
   margin-top: 4rem;
+}
+
+p {
+  font-size: 24px !important;
+}
+
+strong{
+  color:#4876ff;
+}
+
+@media only screen and (max-width: 768px) {
+  .screen {
+   margin: 20px;
+  }
 }
 </style>
