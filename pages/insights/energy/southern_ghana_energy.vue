@@ -13,7 +13,7 @@
         </div>
       </div>
     </section>
-    <div class="tabs container">
+    <div class="tabs container is-size-4">
       <a v-on:click="activetab=1" v-bind:class="[ activetab === 1 ? 'active' : '' ]">Chart</a>
       <a v-on:click="activetab=2" v-bind:class="[ activetab === 2 ? 'active' : '' ]">Analytics</a>
       <a v-on:click="activetab=3" v-bind:class="[ activetab === 3 ? 'active' : '' ]">Use Case</a>
@@ -52,10 +52,12 @@
         </div>
       </div>
       <div v-if="activetab === 2" class="tabcontent">
+        <br>
+        <br>
         <div class="content">
           <h1 class="title">Chart 1</h1>
           <hr>
-          <p class="content">
+          <p class="content is-size-4">
             The first chart show Greater Accra, Ashanti and the Western
             regions as the regions with the largest customer base respectively.
             It also shows the Voltage region as having the least number of customers.
@@ -65,7 +67,7 @@
         <div class="content">
           <h1 class="title">Chart 2</h1>
           <hr>
-          <p class="content">
+          <p class="content is-size-4">
             Even though the first chart showed Greater Accra and the Ashanti regions as the largest
             in terms of customer population than the Western region, the second chart shows the Western region
             as the region with the highest Voltage consumption (264 million Megawatts of energy).
@@ -77,14 +79,14 @@
           <h1 class="title">Chart 3</h1>
           <hr>
           <p
-            class="content"
+            class="content is-size-4"
           >The third chart shows the Metropolitan and Municipal areas and their Voltage consumption in Millions of Megawatts</p>
           <hr style="margin-bottom:3rem">
         </div>
         <div class="content">
           <h1 class="title">Chart 4</h1>
           <hr>
-          <p class="content">
+          <p class="content is-size-4">
             The fouth clearly compared the number of customers in each operational area and their voltage consumption.
             The relationship show non-linearity with some areas with large number of custtomer
             but having low voltage consumption whiles others areas with higher number of customers having significantly lower voltage consumption
@@ -95,8 +97,9 @@
       <div v-if="activetab === 3" class="tabcontent">
         <div class="has-text-centered">
           <h1 class="title">Use Cases</h1>
+          <br>
           <p class="subtitle">
-            <em>Practical application of insights from data</em>
+            <em class="is-size-4 has-text-weight-bold">Practical application of insights from data</em>
           </p>
           <hr>
         </div>
@@ -113,7 +116,7 @@
                   <h1 class="subtitle">Government</h1>
                 </div>
                 <div class="content">
-                  <p class="content">
+                  <p class="content is-size-4">
                     The insight from the charts will help the government focus on the Western Region,
                     when it comes to taking up public education on the efficient usage of electricity.
                     This is due to its high consumptions rate.
@@ -134,7 +137,7 @@
                   <h1 class="subtitle">Firms</h1>
                 </div>
                 <div class="content">
-                  <p class="content">
+                  <p class="content is-size-4">
                     Companies who are into the production, sales and distribution of electrical appliances can rely on this information
                     to sell thier energy efficient products to the Western Region;
                     thus reducing energy consumption rate in the Western region.
@@ -155,7 +158,7 @@
                   <h1 class="subtitle">Individuals</h1>
                 </div>
                 <div class="content">
-                  <p class="content">
+                  <p class="content is-size-4">
                     This insight will make users of electricity more responsible in thier daily
                     usage of electricity in their various homes,
                     especially people living in the Western Region so as to cut down cost.
@@ -231,5 +234,9 @@ p.content {
 /* Style the tab content */
 .tabcontent {
   padding: 20px;
+}
+
+.big {
+  font-size: 2rem;
 }
 </style>
